@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -8,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TransportesYComercializaciónTRANSMI.DB;
 
 namespace TransportesYComercializaciónTRANSMI
 {
@@ -24,6 +26,11 @@ namespace TransportesYComercializaciónTRANSMI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            //Agregar coneccion a BD
+            services.AddDbContext<DbEntities>(
+                options => options.UseSqlServer(Configuration.GetConnectionString("PfCalidad"))
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

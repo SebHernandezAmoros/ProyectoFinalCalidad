@@ -1,0 +1,49 @@
+USE PFCalidad
+
+CREATE TABLE Cliente(
+	ClienteId int IDENTITY PRIMARY KEY NOT NULL,
+	Nombre VARCHAR(300) NOT NULL,
+	Apellido VARCHAR(300) NOT NULL,
+	Dni VARCHAR(8) NOT NULL,
+	Ruc VARCHAR(11)
+);
+
+CREATE TABLE Paquete(
+	PaqueteId int IDENTITY PRIMARY KEY NOT NULL,
+	Peso FLOAT NOT NULL,
+	DimensionX FLOAT NOT NULL,
+	DimensionY FLOAT NOT NULL,
+	DimensionZ FLOAT NOT NULL,
+	Contenido VARCHAR(800) NOT NULL,
+	CiudadOrigen VARCHAR(100) NOT NULL,
+	CiudadMeta VARCHAR(100) NOT NULL,
+	PrecioEnvio FLOAT NOT NULL,
+	Pagado BIT
+);
+
+CREATE TABLE Empleado(
+	EmpleadoId int IDENTITY PRIMARY KEY NOT NULL,
+	Nombre VARCHAR(300) NOT NULL,
+	Apellido VARCHAR(300) NOT NULL,
+	Telefono VARCHAR(11) NOT NULL,
+	Direccion VARCHAR(300) NOT NULL,
+	Dni VARCHAR(8) NOT NULL,
+
+	Usuario VARCHAR(100) NOT NULL,
+	Clave VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE PaqueteCliente(
+	IdCliente  int FOREIGN KEY REFERENCES Cliente(ClienteId),
+	IdPaquete int FOREIGN KEY REFERENCES Paquete(PaqueteId),
+	Rol VARCHAR(50) NOT NULL,
+	PRIMARY KEY(IdPaquete,IdCliente)
+);
+
+CREATE TABLE PaqueteEmpleado(
+	IdEmpleado int FOREIGN KEY REFERENCES Empleado(EmpleadoId),
+	IdPaquete int FOREIGN KEY REFERENCES Paquete(PaqueteId),
+	FechaActualizacion DATETIME NOT NULL,
+	Estado VARCHAR(100) NOT NULL,
+	CiudadActual VARCHAR(100) NOT NULL
+);
