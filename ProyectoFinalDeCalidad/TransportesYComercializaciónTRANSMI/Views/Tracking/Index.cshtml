@@ -1,7 +1,17 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@foreach (var item in Model)
-{
-    <h3>@item.Contenido</h3>
-}
+﻿<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <h1>Buscar tracking</h1>
+            <form action="/tracking/searchTracking" method="get">
+                <div class="mb-3">
+                    <label for="idPaquete">Ingrese ID tracking</label>
+                    <input type="text" class="form-control" name="idPaquete" id="idPaquete">
+                    <p class="text-danger">@Html.ValidationMessage("IdInvalid")</p>
+                </div>
+
+                <button class="btn btn-primary">Buscar</button>
+                <a href="/tracking/index" class="btn btn-link">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>

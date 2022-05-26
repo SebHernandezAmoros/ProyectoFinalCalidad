@@ -1,0 +1,68 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <h1>Formulario de paquete</h1>
+            <form action="/tracking/CreatePackage" method="post">
+                <div class="mb-3">
+                    <label for="Contenido">Ingrese el contenido:</label>
+                    <input type="text" class="form-control" name="Contenido" id="Contenido" value="@Model.Contenido">
+                    <p class="text-danger">@Html.ValidationMessage("Contenido")</p>
+                </div>
+                <div class="mb-3">
+                    <label for="Peso">Ingrese peso en Kg:</label>
+                    <input type="text" class="form-control" name="Peso" id="Peso" value="@Model.Peso">
+                    <p class="text-danger">@Html.ValidationMessage("Peso")</p>
+                </div>
+                <div class="mb-3">
+                    <h6>Ingrese dimensiones:</h6>
+                    <br />
+                    <label for="DimensionX">Ingrese X (cm):</label>
+                    <input type="number" class="form-control" name="DimensionX" id="DimensionX" value="@Model.DimensionX">
+                    <p class="text-danger">@Html.ValidationMessage("DimensionX")</p>
+                    <label for="DimensionY">Ingrese Y (cm):</label>
+                    <input type="number" class="form-control" name="DimensionY" id="DimensionY" value="@Model.DimensionY">
+                    <p class="text-danger">@Html.ValidationMessage("DimensionY")</p>
+                    <label for="DimensionZ">Ingrese Z (cm):</label>
+                    <input type="number" class="form-control" name="DimensionZ" id="DimensionZ" value="@Model.DimensionZ">
+                    <p class="text-danger">@Html.ValidationMessage("DimensionZ")</p>
+                </div>
+                <div class="mb-3">
+                    <label for="CiudadOrigen">Ingrese ciudad de origen:</label>
+                    <select class="form-control" name="CiudadOrigen" id="CiudadOrigen">
+                        <option value="Lima">Lima</option>
+                        <option value="Trujillo">Trujillo</option>
+                        <option value="Cajamarca">Cajamarca</option>
+                        <option value="Arequipa">Arequipa</option>
+                        <option value="Cuzco">Cuzco</option>
+                    </select>
+                    <p class="text-danger">@Html.ValidationMessage("Ciudad")</p>
+                </div>
+                <div class="mb-3">
+                    <label for="CiudadMeta">Ingrese ciudad meta:</label>
+                    <select class="form-control" name="CiudadMeta" id="CiudadMeta">
+                        <option value="Lima">Lima</option>
+                        <option value="Trujillo">Trujillo</option>
+                        <option value="Cajamarca">Cajamarca</option>
+                        <option value="Arequipa">Arequipa</option>
+                        <option value="Cuzco">Cuzco</option>
+                    </select>
+                    <p class="text-danger">@Html.ValidationMessage("Ciudad")</p>
+                </div>
+                <div class="mb-3">
+                    <label for="PrecioEnvio">Ingrese precio del servico (S/.):</label>
+                    <input type="text" class="form-control" name="PrecioEnvio" id="PrecioEnvio" value="@Model.PrecioEnvio">
+                    <p class="text-danger">@Html.ValidationMessage("Precio")</p>
+                </div>
+            <div class="mb-3">
+                @Html.CheckBox("Pagado")
+                <label>Marque si el servicio es pagado por adelantado</label>
+                <p class="text-danger">@Html.ValidationMessage("Pagado")</p>
+
+            </div>
+
+                <button class="btn btn-primary">Ingresar</button>
+                <a href="/tracking/index" class="btn btn-link">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>

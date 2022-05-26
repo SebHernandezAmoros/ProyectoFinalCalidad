@@ -1,0 +1,105 @@
+﻿<div class="container">
+    @*Datos del paquete UTILIZAR GRID*@
+    <form>
+        <h1>Datos del paquete</h1>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Contenido:</label>
+            <div class="col-sm-10">
+                <input class="form-control" value="@ViewBag.Package.Contenido" disabled>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Peso:</label>
+            <div class="col-sm-10">
+                <input class="form-control" value="@ViewBag.Package.Peso Kg" disabled>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Dimensiones:</label>
+            <div class="col-sm-10">
+                <input class="form-control" value="X: @ViewBag.Package.DimensionX cm" disabled>
+                <input class="form-control" value="Y: @ViewBag.Package.DimensionY cm" disabled>
+                <input class="form-control" value="Z: @ViewBag.Package.DimensionZ cm" disabled>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Ciudad de origen:</label>
+            <div class="col-sm-10">
+                <input class="form-control" value="@ViewBag.Package.CiudadOrigen" disabled>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Ciudad meta:</label>
+            <div class="col-sm-10">
+                <input class="form-control" value="@ViewBag.Package.CiudadMeta" disabled>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Precio:</label>
+            <div class="col-sm-10">
+                <input class="form-control" value="S/. @ViewBag.Package.PrecioEnvio" disabled>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Facturado:</label>
+            @if (@ViewBag.Package.Pagado == true)
+            {
+                <div class="col-sm-10">
+                    <input class="form-control" value="El envio ya se cancelo" disabled>
+                </div>
+            }
+            else
+            {
+                <div class="col-sm-10">
+                    <input class="form-control" value="El envio sera cancelado por el receptor" disabled>
+                </div>
+            }
+        </div>
+    </form>
+   
+    <h1>Ruta paquete</h1>
+    <table class="table">
+
+        <thead>
+            <tr>
+                <th>Ciudad actual</th>
+                <th>Fecha de actualizacion</th>
+                <th>Estado</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.CiudadActual</td>
+                    <td>@item.FechaActualizacion</td>
+                    <td>@item.Estado</td>
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <h1>Emisor y receptor del paquete</h1>
+    @*que se muestre quien lo envio y quien esta planeado a recibirlo*@
+    @*Anexar cliente en la tabla paquete cliente*@
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Rol</th>
+                <th>Cliente</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Actors)
+            {
+                <tr>
+                    <td>@item.Rol</td>
+                    <td>@item.Clientë.Nombre @item.Clientë.Apellido</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="/tracking/index" class="btn btn-secondary">Regresar</a>
+</div>

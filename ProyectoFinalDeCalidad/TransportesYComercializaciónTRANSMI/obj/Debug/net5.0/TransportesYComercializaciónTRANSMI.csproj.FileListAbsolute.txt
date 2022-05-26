@@ -69,3 +69,5 @@ D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transporte
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\TransportesYComercializaciónTRANSMI.pdb
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\TransportesYComercializaciónTRANSMI.genruntimeconfig.cache
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\Index.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\SearchTracking.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\CreatePackage.cshtml.g.cs

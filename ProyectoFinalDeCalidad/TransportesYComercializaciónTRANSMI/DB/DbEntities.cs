@@ -16,6 +16,8 @@ namespace TransportesYComercializaciónTRANSMI.DB
         public virtual DbSet<Paquete> Paquetes { get; set; }
         public virtual DbSet<PaqueteCliente> PaqueteClientes { get; set; }
         public virtual DbSet<PaqueteEmpleado> PaqueteEmpleados { get; set; }
+        public IEnumerable<object> Paquete { get; internal set; }
+
         //Constructors
         public DbEntities() { }
         public DbEntities(DbContextOptions<DbEntities> options): base(options) { }

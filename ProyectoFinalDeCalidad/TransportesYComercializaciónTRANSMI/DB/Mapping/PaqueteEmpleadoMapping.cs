@@ -13,7 +13,7 @@ namespace TransportesYComercializaciónTRANSMI.DB.Mapping
         public void Configure(EntityTypeBuilder<PaqueteEmpleado> builder)
         {
             builder.ToTable("PaqueteEmpleado", "dbo");
-            builder.HasKey(o => new { o.IdPaquete , o.IdEmpleado});
+            builder.HasKey(o => o.FechaActualizacion);
         }
     }
 }

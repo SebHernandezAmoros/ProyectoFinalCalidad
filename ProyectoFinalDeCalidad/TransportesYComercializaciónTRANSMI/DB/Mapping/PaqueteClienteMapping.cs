@@ -14,6 +14,10 @@ namespace TransportesYComercializaciónTRANSMI.DB.Mapping
         {
             builder.ToTable("PaqueteCliente", "dbo");
             builder.HasKey(o => new { o.IdPaquete, o.IdCliente });
+
+            builder.HasOne<Cliente>(o => o.Clientë)
+                .WithMany()
+                .HasForeignKey(o => o.IdCliente);
         }
     }
 }
