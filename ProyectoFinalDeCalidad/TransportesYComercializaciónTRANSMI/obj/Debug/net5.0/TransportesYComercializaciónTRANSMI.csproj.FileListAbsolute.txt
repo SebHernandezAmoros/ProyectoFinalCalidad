@@ -71,3 +71,8 @@ D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transporte
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\Index.cshtml.g.cs
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\SearchTracking.cshtml.g.cs
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\CreatePackage.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\CreateActors.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\ViewPackages.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\UpdatePackage.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Auth\Init.cshtml.g.cs

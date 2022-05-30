@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +28,12 @@ namespace TransportesYComercializaciónTRANSMI
         {
             services.AddControllersWithViews();
 
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(options => {
+                    options.LoginPath = "/auth/login";
+                    //Se puede configurar mas options
+                });
+
             //Agregar coneccion a BD
             services.AddDbContext<DbEntities>(
                 options => options.UseSqlServer(Configuration.GetConnectionString("PfCalidad"))
@@ -51,6 +58,7 @@ namespace TransportesYComercializaciónTRANSMI
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

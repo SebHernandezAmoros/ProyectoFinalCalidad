@@ -1,0 +1,50 @@
+﻿<div>
+    <div class="row">
+        <div class="col-6 offset-3">
+            <table class="table">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Fecha y hora</th>
+                        <th>Ciudad</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.Lista)
+                    {
+                        <tr>
+                            <td>@item.FechaActualizacion</td>
+                            <td>@item.CiudadActual</td>
+                            <td>@item.Estado</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <p class="text-danger">@Html.ValidationMessage("Error")</p>
+            <form action="/tracking/UpdatePackage" method="post">
+                <input id="IdPaquete" name="IdPaquete" type="hidden" value="@ViewBag.IdPackage">
+                <div class="mb-3">
+                    <label for="CiudadActual">Ingrese la ciudad actual:</label>
+                    <select class="form-control" name="CiudadActual" id="CiudadActual">
+                        <option value="Elige">Elige</option>
+                        <option value="Lima">Lima</option>
+                        <option value="Trujillo">Trujillo</option>
+                        <option value="Cajamarca">Cajamarca</option>
+                        <option value="Arequipa">Arequipa</option>
+                        <option value="Cuzco">Cuzco</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="Estado">Ingrese el estado actual:</label>
+                    <select class="form-control" name="Estado" id="Estado">
+                        <option value="Elige">Elige</option>
+                        <option value="Partio">Partio</option>
+                        <option value="Arribo">Arribo</option>
+                        <option value="Despachado">Despachado</option>
+                    </select>
+                </div>
+                <button class="btn btn-primary">Ingresar</button>
+            </form>
+        </div>
+    </div>
+</div>

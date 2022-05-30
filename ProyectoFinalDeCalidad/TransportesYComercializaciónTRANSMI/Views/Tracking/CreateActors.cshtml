@@ -1,0 +1,56 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <h1>Ingreso de emisor y receptor</h1>
+            <h3>Datos del paquete</h3>
+            <div class="form-group row">
+                <label class="col-sm-2 col-form-label">ID:</label>
+                <div class="col-sm-10">
+                    <input class="form-control" value="@ViewBag.LastPackage" disabled>
+                </div>
+            </div>
+            <form action="/tracking/CreateActors" method="post">
+
+
+                @foreach (var item in Model)
+                {
+                    @if (Model.IndexOf(item) == 0)
+                    {
+                        <h3>Emisor</h3>
+                        <p class="text-success">@Html.ValidationMessage("EmisorSearch")</p>
+                    }
+
+                    else
+                    {
+                        <h3>Receptor</h3>
+                        <p class="text-success">@Html.ValidationMessage("ReceptorSearch")</p>
+                    }
+
+                    <div class="mb-3">
+                        <label for="Actors[@Model.IndexOf(item)].Dni">Ingrese el DNI:</label>
+                        <input type="text" class="form-control" name="Actors[@Model.IndexOf(item)].Dni" id="Actors[@Model.IndexOf(item)].Dni" value="@item.Dni">
+                        <p class="text-danger">*Si el cliente ya esta registrado solo escribe su DNI y presiona enviar*</p>
+                        <p class="text-danger">@Html.ValidationMessage("Dni")</p>
+                    </div>
+                    <div class="mb-3">
+                        <label for="Actors[@Model.IndexOf(item)].Ruc">Ingrese el RUC:</label>
+                        <input type="text" class="form-control" name="Actors[@Model.IndexOf(item)].Ruc" id="Actors[@Model.IndexOf(item)].Ruc" value="@item.Ruc">
+                    </div>
+                    <div class="mb-3">
+                        <label for="Actors[@Model.IndexOf(item)].Nombre">Ingrese el nombre:</label>
+                        <input type="text" class="form-control" name="Actors[@Model.IndexOf(item)].Nombre" id="Actors[@Model.IndexOf(item)].Nombre" value="@item.Nombre">
+                        <p class="text-danger">@Html.ValidationMessage("Nombre")</p>
+                    </div>
+                    <div class="mb-3">
+                        <label for="Actors[@Model.IndexOf(item)].Apellido">Ingrese el apellido:</label>
+                        <input type="text" class="form-control" name="Actors[@Model.IndexOf(item)].Apellido" id="Actors[@Model.IndexOf(item)].Apellido" value="@item.Apellido">
+                        <p class="text-danger">@Html.ValidationMessage("Apellido")</p>
+                    </div>
+                }
+
+                <button type="submit" class="btn btn-primary" value="Submit">Ingresar</button>
+                <a href="/tracking/index" class="btn btn-link">Cancelar</a>
+            </form>
+        </div>
+    </div>
+</div>
