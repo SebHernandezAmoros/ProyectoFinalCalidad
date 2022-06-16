@@ -1,7 +1,7 @@
 ﻿<div>
     <div class="row">
         <div class="col-6 offset-3">
-            <h1>Formulario de paquete</h1>
+            <h1 id="TituloFormularioPaquete">Formulario de paquete</h1>
             <form action="/tracking/ViewPackages" method="get">
                 <div class="mb-3">
                     <label for="IdPaquete">Ingrese el contenido:</label>
@@ -30,7 +30,7 @@
                             <td>@item.CiudadOrigen</td>
                             <td>@item.CiudadMeta</td>
                             <td>
-                                <a href="UpdatePackage/?ID=@item.PaqueteId" class="btn btn-primary">
+                                <a href="/tracking/UpdatePackage/?ID=@item.PaqueteId" class="btn btn-primary">
                                     Agregar
                                 </a>
                             </td>

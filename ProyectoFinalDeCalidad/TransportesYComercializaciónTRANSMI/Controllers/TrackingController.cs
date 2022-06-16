@@ -8,20 +8,32 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using TransportesYComercializaciónTRANSMI.DB;
 using TransportesYComercializaciónTRANSMI.Models;
+using TransportesYComercializaciónTRANSMI.Repositories;
 
 namespace TransportesYComercializaciónTRANSMI.Controllers
 {
     public class TrackingController : Controller
     {
         private DbEntities dbEntities;
-        public TrackingController(DbEntities dbEntities)
+        private readonly IClienteRepositorio clienteRepositorio;
+        private readonly IEmpleadoRepositorio empleadoRepositorio;
+        private readonly IPaqueteRepositorio paqueteRepositorio;
+        private readonly IPaqueteClienteRepositorio paqueteClienteRepositorio;
+        private readonly IPaqueteEmpleadoRepositorio paqueteEmpleadoRepositorio;
+        public TrackingController(IClienteRepositorio clienteRepositorio, IEmpleadoRepositorio empleadoRepositorio, IPaqueteRepositorio paqueteRepositorio, IPaqueteClienteRepositorio paqueteClienteRepositorio, IPaqueteEmpleadoRepositorio paqueteEmpleadoRepositorio, DbEntities dbEntities)
         {
+            this.clienteRepositorio = clienteRepositorio;
+            this.empleadoRepositorio = empleadoRepositorio;
+            this.paqueteRepositorio = paqueteRepositorio;
+            this.paqueteClienteRepositorio = paqueteClienteRepositorio;
+            this.paqueteEmpleadoRepositorio = paqueteEmpleadoRepositorio;
             this.dbEntities = dbEntities;
         }
 
         public IActionResult Index()
         {
-            List<Paquete> paquetes = dbEntities.Paquetes.ToList();
+            List<Paquete> paquetes = paqueteRepositorio.ObtenerTodos();
+            //List <Paquete> paquetes = dbEntities.Paquetes.ToList();
 
             return View(paquetes);
         }
@@ -29,11 +41,14 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
         [HttpGet]
         public IActionResult SearchTracking(int idPaquete)
         {
-            var paqueteEmpleados = dbEntities.PaqueteEmpleados.Where(o => o.IdPaquete == idPaquete).ToList();
-            ViewBag.Package = dbEntities.Paquetes.FirstOrDefault(o => o.PaqueteId == idPaquete);
-            ViewBag.Actors = dbEntities.PaqueteClientes
-                .Include(o => o.Clientë)
-                .Where(o => o.IdPaquete == idPaquete).ToList();
+            var paqueteEmpleados = paqueteEmpleadoRepositorio.ObtenerPorIdPaquete(idPaquete);
+
+            //ViewBag.Package = dbEntities.Paquetes.FirstOrDefault(o => o.PaqueteId == idPaquete);
+            ViewBag.Package = paqueteRepositorio.ObtenerPorId(idPaquete);
+            ViewBag.Actors = paqueteClienteRepositorio.ObtenerActors(idPaquete);
+            //ViewBag.Actors = dbEntities.PaqueteClientes
+            //    .Include(o => o.Clientë)
+            //    .Where(o => o.IdPaquete == idPaquete).ToList();
 
             if (ViewBag.Package == null)
             {
@@ -55,7 +70,6 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
         public IActionResult CreatePackage(Paquete paquete)
         {
 
-            //Confirmar si los datos has sido bien ingresados
             if (paquete.Contenido == null || paquete.Contenido == "")
             {
                 ModelState.AddModelError("Contenido", "El contenido es obligatorio");
@@ -92,13 +106,12 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
 
                 return View("CreatePackage", paquete);
             }
-            dbEntities.Paquetes.Add(paquete);
-            dbEntities.SaveChanges();
-            //Redirigir al formulario para ingresar a los clientes y al empleado que registraron el paquete
+            //dbEntities.Paquetes.Add(paquete);
+            //dbEntities.SaveChanges();
+            paqueteRepositorio.Guardar(paquete);
 
 
 
-            //Enviar dato del ultimo paquete registrado via viewbag
             return RedirectToAction("CreateActors");
         }
 
@@ -106,7 +119,8 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
         [HttpGet]
         public IActionResult CreateActors()
         {
-            Paquete paquete = dbEntities.Paquetes.OrderByDescending(o => o.PaqueteId).First();
+            //Paquete paquete = dbEntities.Paquetes.OrderByDescending(o => o.PaqueteId).First();
+            Paquete paquete = paqueteRepositorio.ObtenerUltimo();
             ViewBag.LastPackage = paquete.PaqueteId;
             List<Cliente> Actors = new()
             {
@@ -120,10 +134,9 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
         [HttpPost]
         public IActionResult CreateActors(List<Cliente> Actors)
         {
-            Paquete paquete = dbEntities.Paquetes.OrderByDescending(o => o.PaqueteId).First();
-            //Si el dni de uno o los 2 ya esta registrado que retorne
-            //los datos llenos y
-            //ya no ejecute la funcion add a cliente
+            //Paquete paquete = dbEntities.Paquetes.OrderByDescending(o => o.PaqueteId).First();
+            Paquete paquete = paqueteRepositorio.ObtenerUltimo();
+
             if (Actors.Count == 0)
             {
                 ModelState.AddModelError("Vacio", "La lista esta vacia");
@@ -151,16 +164,17 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
             
             if (SearchCliente(Actors[0])==null)
             {
-                dbEntities.Clientes.Add(Actors[0]);
-                dbEntities.SaveChanges();
+                //dbEntities.Clientes.Add(Actors[0]);
+                //dbEntities.SaveChanges();
+                clienteRepositorio.Guardar(Actors[0]);
             }
             if (SearchCliente(Actors[1]) == null)
             {
-                dbEntities.Clientes.Add(Actors[1]);
-                dbEntities.SaveChanges();
+                //dbEntities.Clientes.Add(Actors[1]);
+                //dbEntities.SaveChanges();
+                clienteRepositorio.Guardar(Actors[1]);
             }
-            //Crear un registro paqueteempleado Con la fecha actual el
-            //id de paquete, empleado y su estado
+
             PaqueteEmpleado PeIngreso = new PaqueteEmpleado { 
                 IdPaquete = paquete.PaqueteId, 
                 Estado="Recepcionado", 
@@ -168,16 +182,18 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
                 CiudadActual=paquete.CiudadOrigen, 
                 IdEmpleado=GetLoggedUser().EmpleadoId
             };
-            dbEntities.PaqueteEmpleados.Add(PeIngreso);
-            dbEntities.SaveChanges();
+            //dbEntities.PaqueteEmpleados.Add(PeIngreso);
+            //dbEntities.SaveChanges();
+            paqueteEmpleadoRepositorio.Guardar(PeIngreso);
 
-            //Crear dos registro paquetecliente con el id del paquete y
-            //los id de actors
-            PaqueteCliente PcEmisor = new PaqueteCliente { Rol="Emisor", IdPaquete=paquete.PaqueteId,IdCliente = dbEntities.Clientes.FirstOrDefault(o => o.Dni == Actors[0].Dni).ClienteId};
-            PaqueteCliente PcReceptor = new PaqueteCliente { Rol = "Receptor", IdPaquete = paquete.PaqueteId, IdCliente = dbEntities.Clientes.FirstOrDefault(o => o.Dni == Actors[1].Dni).ClienteId };
-            dbEntities.PaqueteClientes.Add(PcEmisor);
-            dbEntities.PaqueteClientes.Add(PcReceptor);
-            dbEntities.SaveChanges();
+
+            PaqueteCliente PcEmisor = new PaqueteCliente { Rol="Emisor", IdPaquete=paquete.PaqueteId,IdCliente = clienteRepositorio.ObtenerPorDni(Actors[0].Dni).ClienteId};
+            PaqueteCliente PcReceptor = new PaqueteCliente { Rol = "Receptor", IdPaquete = paquete.PaqueteId, IdCliente = clienteRepositorio.ObtenerPorDni(Actors[1].Dni).ClienteId };
+            //dbEntities.PaqueteClientes.Add(PcEmisor);
+            //dbEntities.PaqueteClientes.Add(PcReceptor);
+            //dbEntities.SaveChanges();
+            paqueteClienteRepositorio.Guardar(PcEmisor);
+            paqueteClienteRepositorio.Guardar(PcReceptor);
 
             return View("Index");
         }
@@ -186,29 +202,30 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
         [HttpGet]
         public IActionResult ViewPackages(int IdPaquete) 
         {
-            //Enviar lista de paquetes que esten en la misma ciudad que el logueado
             List<Paquete> paquetes= null;
             if (IdPaquete == 0)
             {
-                paquetes = dbEntities.Paquetes.ToList();
+                //paquetes = dbEntities.Paquetes.ToList();
+                paquetes = paqueteRepositorio.ObtenerTodos();
             }
             else
             {
-                paquetes = dbEntities.Paquetes.Where(o => o.PaqueteId == IdPaquete).ToList();
+                //paquetes = dbEntities.Paquetes.Where(o => o.PaqueteId == IdPaquete).ToList();
+                paquetes = paqueteRepositorio.ObtenerListaPorId(IdPaquete);
             }
 
             ViewBag.Aux = 0;
             return View(paquetes);
         }
-        //Crear una segunda vista donde llegue el paque seleccionado anteriomente e ingresar ciudad, el estado y el ID del paquete
-        //Al finalizar el ingreso retorna a la tabla
+
 
         [Authorize]
         [HttpGet]
         public IActionResult UpdatePackage(int ID)
         {
             ViewBag.IdPackage = ID;
-            ViewBag.Lista = dbEntities.PaqueteEmpleados.Where(o => o.IdPaquete == ID).ToList();
+            //ViewBag.Lista = dbEntities.PaqueteEmpleados.Where(o => o.IdPaquete == ID).ToList();
+            ViewBag.Lista = paqueteEmpleadoRepositorio.ObtenerPorIdPaquete(ID);
 
             return View(new PaqueteEmpleado());
         }
@@ -226,13 +243,15 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
             if (!ModelState.IsValid)
             {
                 ViewBag.IdPackage = paqueteEmpleado.IdPaquete;
-                ViewBag.Lista = dbEntities.PaqueteEmpleados.Where(o => o.IdPaquete == paqueteEmpleado.IdPaquete).ToList();
+                //ViewBag.Lista = dbEntities.PaqueteEmpleados.Where(o => o.IdPaquete == paqueteEmpleado.IdPaquete).ToList();
+                ViewBag.Lista = paqueteEmpleadoRepositorio.ObtenerPorIdPaquete(paqueteEmpleado.IdPaquete);
                 return View("UpdatePackage", paqueteEmpleado.IdPaquete);
             }
             paqueteEmpleado.IdEmpleado = GetLoggedUser().EmpleadoId;
             paqueteEmpleado.FechaActualizacion = DateTime.Now;
-            dbEntities.PaqueteEmpleados.Add(paqueteEmpleado);
-            dbEntities.SaveChanges();
+            //dbEntities.PaqueteEmpleados.Add(paqueteEmpleado);
+            //dbEntities.SaveChanges();
+            paqueteEmpleadoRepositorio.Guardar(paqueteEmpleado);
 
             return RedirectToAction("ViewPackages",0);
         }
@@ -259,7 +278,9 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
 
         private Cliente SearchCliente(Cliente cliente)
         {
-            Cliente actor = dbEntities.Clientes.FirstOrDefault(o => o.Dni == cliente.Dni);
+            //Cliente actor = dbEntities.Clientes.FirstOrDefault(o => o.Dni == cliente.Dni);
+            Cliente actor = clienteRepositorio.ObtenerPorDni(cliente.Dni);
+
             if (actor == null)
             {
                 return null;
@@ -267,12 +288,11 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
             return actor;
         }
 
-        //Retorna el usuario con el que te logueas!
-        private Empleado GetLoggedUser()
+        public Empleado GetLoggedUser()
         {
             var claim = HttpContext.User.Claims.FirstOrDefault(x => x.Type == ClaimTypes.Name);
             var username = claim.Value;
-            return dbEntities.Empleados.FirstOrDefault(o => o.Usuario == username);
+            return empleadoRepositorio.ObtenerPorUserName(username);
         }
     }
 }

@@ -22,6 +22,18 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
         {
             return View();
         }
+        public IActionResult Servicios()
+        {
+            return View();
+        }
+        public IActionResult Nosotros()
+        {
+            return View();
+        }
+        public IActionResult Contactanos()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

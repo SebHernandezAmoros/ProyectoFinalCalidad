@@ -1,8 +1,33 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="row">
+        <div class="col align-self-start">
+            <img src="@Url.Content("~/Images/Paquete.png")" class="img-responsive img-fluid" alt="">
+        </div>
+        <div class="col align-self-center p-3 mb-2 bg-light text-dark">
+            <h1 id="TituloIndexHorario" class="text-left">HORARIOS</h1>
+            <p>Por las Disposiciones del Gobierno, estos seran los horarios de atencion de nuestras oficinas</p>
+            <h4>LIMA</h4>
+            <p>Paseo de La Republica: Lunes a Sabados de 7:00am a 9:00pm Domingo de 8:00 am a 5:00pm</p>
+            <p>Paseo de La Republica: Lunes a Domingos de 7:00am a 9:00pm</p>
+            <h4>TRUJILLO</h4>
+            <p>America: Lunes a Domingo de 7:00am a 9:00pm</p>
+            <p>Orbegoso: Lunes a Domingo de 7:00am a 9:00pm</p>
+            <h4>PIURA</h4>
+            <p>Sánchez Cemo: Lunes a Domingo de 7:00am a 9:00pm</p>
+            <h4>CHICLAYO</h4>
+            <p>De Lunes a Domingo de 7:00am a 9:00pm</p>
+            
+            <a asp-area="" asp-controller="Home" asp-action="Contactanos" class="btn btn-secondary">Contactanos</a>
+        </div>
+    </div>
+    <div class="col align-self-center p-3 mb-2 bg-light text-dark">
+        <h1 class="text-left">NOSOTROS</h1>
+        <p>Somos TRANSMI una empresa Cajamarquina con experiencia en el transporte de carga liquida, materiales peligrosos y carga seca, llevándolo por las distintas rutas del Perú. Nuestros clientes reconocen el compromiso que tenemos con su carga, ellos confian en nosotros.</p>
+        <div class="col-md-12 text-center">
+            <a asp-area="" asp-controller="Home" asp-action="Nosotros" class="btn btn-danger text-center">Conócenos</a>
+        </div>
+    </div>
 </div>

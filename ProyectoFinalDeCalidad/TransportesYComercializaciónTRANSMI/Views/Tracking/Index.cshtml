@@ -1,17 +1,20 @@
 ﻿<div class="container">
     <div class="row">
-        <div class="col-6 offset-3">
-            <h1>Buscar tracking</h1>
+        <div class="col-6 ">
+            <h1 id="TituloBuscarTracking">Buscar tracking</h1>
             <form action="/tracking/searchTracking" method="get">
                 <div class="mb-3">
                     <label for="idPaquete">Ingrese ID tracking</label>
                     <input type="text" class="form-control" name="idPaquete" id="idPaquete">
-                    <p class="text-danger">@Html.ValidationMessage("IdInvalid")</p>
+                    <p class="text-danger">@Html.ValidationMessage("IdInvalid", new {id="IdNoValido"})</p>
                 </div>
 
                 <button class="btn btn-primary">Buscar</button>
                 <a href="/tracking/index" class="btn btn-link">Cancelar</a>
             </form>
+        </div>
+        <div class="col align-self-start">
+            <img src="@Url.Content("~/Images/Paquete.png")" class="img-responsive img-fluid" alt="">
         </div>
     </div>
 </div>

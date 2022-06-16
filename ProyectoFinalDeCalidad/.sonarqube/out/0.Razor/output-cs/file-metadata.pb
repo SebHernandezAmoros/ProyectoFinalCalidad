@@ -1,0 +1,20 @@
+©
+ùD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Auth\Init.cshtml.g.csutf-8™
+ûD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Auth\Login.cshtml.g.csutf-8∞
+§D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Contactanos.cshtml.g.csutf-8™
+ûD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.csutf-8≠
+°D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Nosotros.cshtml.g.csutf-8¨
+†D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.csutf-8Æ
+¢D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Servicios.cshtml.g.csutf-8¨
+†D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.csutf-8Æ
+¢D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.csutf-8¿
+¥D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8µ
+©D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\CreateActors.cshtml.g.csutf-8∂
+™D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\CreatePackage.cshtml.g.csutf-8Æ
+¢D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\Index.cshtml.g.csutf-8∑
+´D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\SearchTracking.cshtml.g.csutf-8∂
+™D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\UpdatePackage.cshtml.g.csutf-8µ
+©D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\ViewPackages.cshtml.g.csutf-8¨
+†D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.csutf-8™
+ûD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.csutf-8«
+ªD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\TransportesYComercializaci√≥nTRANSMI.RazorTargetAssemblyInfo.csutf-8

@@ -1,0 +1,6 @@
+projectKey=proyectofinaldecalidad
+serverUrl=https://sonar-test.bit2bittest.com
+serverVersion=9.4.0.54424
+dashboardUrl=https://sonar-test.bit2bittest.com/dashboard?id=proyectofinaldecalidad
+ceTaskId=AYFQ0WwkeoUkPA3rNnmr
+ceTaskUrl=https://sonar-test.bit2bittest.com/api/ce/task?id=AYFQ0WwkeoUkPA3rNnmr

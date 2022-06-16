@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TransportesYComercializaciónTRANSMI.DB;
+using TransportesYComercializaciónTRANSMI.Repositories;
 
 namespace TransportesYComercializaciónTRANSMI
 {
@@ -38,6 +39,14 @@ namespace TransportesYComercializaciónTRANSMI
             services.AddDbContext<DbEntities>(
                 options => options.UseSqlServer(Configuration.GetConnectionString("PfCalidad"))
             );
+            //---------------------------------------
+            //DEFINICION DE INTERFAS Y CLASE A USAR
+            //---------------------------------------
+            services.AddTransient<IClienteRepositorio, ClienteRepositorio>();
+            services.AddTransient<IEmpleadoRepositorio, EmpleadoRepositorio>();
+            services.AddTransient<IPaqueteRepositorio, PaqueteRepositorio>();
+            services.AddTransient<IPaqueteClienteRepositorio, PaqueteClienteRepositorio>();
+            services.AddTransient<IPaqueteEmpleadoRepositorio, PaqueteEmpleadoRepositorio>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
