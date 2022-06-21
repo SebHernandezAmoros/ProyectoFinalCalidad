@@ -1,13 +1,7 @@
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\CoverletSourceRootsMapping
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\testhost.dll
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.Views.dll
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.Views.pdb
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.deps.json
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.runtimeconfig.json
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.runtimeconfig.dev.json
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\appsettings.Development.json
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\appsettings.json
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.exe
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\testhost.exe
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\NUnit3.TestAdapter.dll
@@ -128,8 +122,6 @@ D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Te
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.dll
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\TransportesYComercializaciónTRANSMI.pdb
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Transmi.Test.csproj.AssemblyReference.cache
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Transmi.Test.GeneratedMSBuildEditorConfig.editorconfig
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Transmi.Test.AssemblyInfoInputs.cache
@@ -140,4 +132,12 @@ D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Te
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\ref\Transmi.Test.dll
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Transmi.Test.pdb
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Transmi.Test.genruntimeconfig.cache
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\ref\Transmi.Test.dll
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.Views.dll
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.Views.pdb
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.deps.json
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.runtimeconfig.json
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.runtimeconfig.dev.json
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.exe
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.dll
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\Transmi.Web.pdb
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\refint\Transmi.Test.dll

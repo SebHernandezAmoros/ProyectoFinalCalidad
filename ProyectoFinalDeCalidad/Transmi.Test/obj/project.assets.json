@@ -2066,7 +2066,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "TransportesYComercializaciónTRANSMI/1.0.0": {
+      "Transmi.Web/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -2074,10 +2074,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
         },
         "compile": {
-          "bin/placeholder/TransportesYComercializaciónTRANSMI.dll": {}
+          "bin/placeholder/Transmi.Web.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TransportesYComercializaciónTRANSMI.dll": {}
+          "bin/placeholder/Transmi.Web.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -7587,10 +7587,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "TransportesYComercializaciónTRANSMI/1.0.0": {
+    "Transmi.Web/1.0.0": {
       "type": "project",
-      "path": "../TransportesYComercializaciónTRANSMI/TransportesYComercializaciónTRANSMI.csproj",
-      "msbuildProject": "../TransportesYComercializaciónTRANSMI/TransportesYComercializaciónTRANSMI.csproj"
+      "path": "../TransportesYComercializaciónTRANSMI/Transmi.Web.csproj",
+      "msbuildProject": "../TransportesYComercializaciónTRANSMI/Transmi.Web.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7599,7 +7599,7 @@
       "Moq >= 4.18.1",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
-      "TransportesYComercializaciónTRANSMI >= 1.0.0",
+      "Transmi.Web >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },
@@ -7630,8 +7630,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj": {
-              "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj"
+            "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj": {
+              "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj"
             }
           }
         }
@@ -7682,7 +7682,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

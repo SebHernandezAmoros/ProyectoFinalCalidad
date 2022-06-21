@@ -76,7 +76,7 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
 
         private Empleado GetLoggedUser()
         {
-            var claim = HttpContext.User.Claims.FirstOrDefault(x => x.Type == ClaimTypes.Name);
+            var claim = HttpContext.User.Claims.FirstOrDefault();
             var username = claim.Value;
             return dbEntities.Empleados.FirstOrDefault(o => o.Usuario == username);
         }

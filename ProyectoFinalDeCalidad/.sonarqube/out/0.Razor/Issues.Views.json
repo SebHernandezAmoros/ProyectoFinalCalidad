@@ -6,11 +6,59 @@
       "tool": {
         "name": "Compilador de Microsoft (R) Visual C#",
         "version": "4.2.0.0",
-        "fileVersion": "4.2.0-4.22220.2 (1e40aa11)",
+        "fileVersion": "4.2.0-4.22220.5 (432d17a8)",
         "semanticVersion": "4.2.0",
         "language": "es-ES"
       },
       "results": [
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Nosotros.cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
         {
           "ruleId": "CS1998",
           "level": "warning",
@@ -69,54 +117,6 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 67,
-                  "endLine": 36,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Nosotros.cshtml.g.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 67,
-                  "endLine": 36,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
                 "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs",
                 "region": {
                   "startLine": 35,
@@ -141,7 +141,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 67,
@@ -213,12 +213,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
                 "region": {
-                  "startLine": 61,
-                  "startColumn": 212,
-                  "endLine": 61,
-                  "endColumn": 214
+                  "startLine": 103,
+                  "startColumn": 207,
+                  "endLine": 103,
+                  "endColumn": 209
                 }
               }
             }
@@ -237,12 +237,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
                 "region": {
-                  "startLine": 75,
-                  "startColumn": 212,
-                  "endLine": 75,
-                  "endColumn": 214
+                  "startLine": 131,
+                  "startColumn": 207,
+                  "endLine": 131,
+                  "endColumn": 209
                 }
               }
             }
@@ -285,12 +285,36 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
-                  "startLine": 36,
-                  "startColumn": 67,
-                  "endLine": 36,
-                  "endColumn": 79
+                  "startLine": 61,
+                  "startColumn": 212,
+                  "endLine": 61,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 212,
+                  "endLine": 75,
+                  "endColumn": 214
                 }
               }
             }
@@ -405,11 +429,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 172,
+                  "startLine": 147,
                   "startColumn": 217,
-                  "endLine": 172,
+                  "endLine": 147,
                   "endColumn": 219
                 }
               }
@@ -429,11 +453,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 188,
+                  "startLine": 163,
                   "startColumn": 217,
-                  "endLine": 188,
+                  "endLine": 163,
                   "endColumn": 219
                 }
               }
@@ -453,11 +477,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 204,
+                  "startLine": 179,
                   "startColumn": 217,
-                  "endLine": 204,
+                  "endLine": 179,
                   "endColumn": 219
                 }
               }
@@ -477,11 +501,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 220,
+                  "startLine": 195,
                   "startColumn": 217,
-                  "endLine": 220,
+                  "endLine": 195,
                   "endColumn": 219
                 }
               }
@@ -501,11 +525,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 236,
+                  "startLine": 211,
                   "startColumn": 217,
-                  "endLine": 236,
+                  "endLine": 211,
                   "endColumn": 219
                 }
               }
@@ -525,11 +549,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 260,
+                  "startLine": 227,
                   "startColumn": 217,
-                  "endLine": 260,
+                  "endLine": 227,
                   "endColumn": 219
                 }
               }
@@ -549,11 +573,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 276,
+                  "startLine": 249,
                   "startColumn": 217,
-                  "endLine": 276,
+                  "endLine": 249,
                   "endColumn": 219
                 }
               }
@@ -573,11 +597,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 292,
+                  "startLine": 265,
                   "startColumn": 217,
-                  "endLine": 292,
+                  "endLine": 265,
                   "endColumn": 219
                 }
               }
@@ -597,11 +621,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 308,
+                  "startLine": 281,
                   "startColumn": 217,
-                  "endLine": 308,
+                  "endLine": 281,
                   "endColumn": 219
                 }
               }
@@ -621,11 +645,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 324,
+                  "startLine": 297,
                   "startColumn": 217,
-                  "endLine": 324,
+                  "endLine": 297,
                   "endColumn": 219
                 }
               }
@@ -981,11 +1005,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 146,
+                  "startLine": 172,
                   "startColumn": 217,
-                  "endLine": 146,
+                  "endLine": 172,
                   "endColumn": 219
                 }
               }
@@ -1005,11 +1029,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 162,
+                  "startLine": 188,
                   "startColumn": 217,
-                  "endLine": 162,
+                  "endLine": 188,
                   "endColumn": 219
                 }
               }
@@ -1029,11 +1053,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 178,
+                  "startLine": 204,
                   "startColumn": 217,
-                  "endLine": 178,
+                  "endLine": 204,
                   "endColumn": 219
                 }
               }
@@ -1053,11 +1077,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 194,
+                  "startLine": 220,
                   "startColumn": 217,
-                  "endLine": 194,
+                  "endLine": 220,
                   "endColumn": 219
                 }
               }
@@ -1077,11 +1101,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 210,
+                  "startLine": 236,
                   "startColumn": 217,
-                  "endLine": 210,
+                  "endLine": 236,
                   "endColumn": 219
                 }
               }
@@ -1101,11 +1125,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 226,
+                  "startLine": 260,
                   "startColumn": 217,
-                  "endLine": 226,
+                  "endLine": 260,
                   "endColumn": 219
                 }
               }
@@ -1125,11 +1149,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 248,
+                  "startLine": 276,
                   "startColumn": 217,
-                  "endLine": 248,
+                  "endLine": 276,
                   "endColumn": 219
                 }
               }
@@ -1149,11 +1173,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 264,
+                  "startLine": 292,
                   "startColumn": 217,
-                  "endLine": 264,
+                  "endLine": 292,
                   "endColumn": 219
                 }
               }
@@ -1173,11 +1197,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 280,
+                  "startLine": 308,
                   "startColumn": 217,
-                  "endLine": 280,
+                  "endLine": 308,
                   "endColumn": 219
                 }
               }
@@ -1197,11 +1221,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 296,
+                  "startLine": 324,
                   "startColumn": 217,
-                  "endLine": 296,
+                  "endLine": 324,
                   "endColumn": 219
                 }
               }
@@ -1238,38 +1262,14 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "El campo 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' nunca se usa",
+          "message": "El campo 'Views_Tracking_Index.__tagHelperStringValueBuffer' nunca se usa",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 24,
-                  "endLine": 43,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Tracking_ViewPackages.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/ViewPackages.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/Index.cshtml.g.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 24,
@@ -1310,6 +1310,54 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
+          "message": "El campo 'Views_Tracking_CreateActors.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreateActors.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Tracking_ViewPackages.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/ViewPackages.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
           "message": "El campo 'Views_Tracking_SearchTracking.__tagHelperStringValueBuffer' nunca se usa",
           "suppressionStates": [
             "suppressedInSource"
@@ -1334,42 +1382,18 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "El campo 'Views_Shared__Layout.__tagHelperStringValueBuffer' nunca se usa",
+          "message": "El campo 'Views_Tracking_UpdatePackage.__tagHelperStringValueBuffer' nunca se usa",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
                 "region": {
-                  "startLine": 63,
+                  "startLine": 52,
                   "startColumn": 24,
-                  "endLine": 63,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Tracking_CreateActors.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreateActors.cshtml.g.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 24,
-                  "endLine": 43,
+                  "endLine": 52,
                   "endColumn": 52
                 }
               }
@@ -1406,18 +1430,18 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "El campo 'Views_Tracking_Index.__tagHelperStringValueBuffer' nunca se usa",
+          "message": "El campo 'Views_Home_Index.__tagHelperStringValueBuffer' nunca se usa",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/Index.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
                 "region": {
-                  "startLine": 43,
+                  "startLine": 47,
                   "startColumn": 24,
-                  "endLine": 43,
+                  "endLine": 47,
                   "endColumn": 52
                 }
               }
@@ -1430,18 +1454,42 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "El campo 'Views_Tracking_UpdatePackage.__tagHelperStringValueBuffer' nunca se usa",
+          "message": "El campo 'Views_Shared__Layout.__tagHelperStringValueBuffer' nunca se usa",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 63,
                   "startColumn": 24,
-                  "endLine": 52,
+                  "endLine": 63,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
                   "endColumn": 52
                 }
               }

@@ -1,4 +1,3 @@
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\TransportesYComercializaciónTRANSMI.csproj.AssemblyReference.cache
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\TransportesYComercializaciónTRANSMI.GeneratedMSBuildEditorConfig.editorconfig
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\TransportesYComercializaciónTRANSMI.AssemblyInfoInputs.cache
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\TransportesYComercializaciónTRANSMI.AssemblyInfo.cs
@@ -77,5 +76,6 @@ D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transporte
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Contactanos.cshtml.g.cs
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Nosotros.cshtml.g.cs
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Razor\Views\Home\Servicios.cshtml.g.cs
+D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\TransportesYComercializaciónTRANSMI.csproj.AssemblyReference.cache
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\bin\Debug\net5.0\ref\TransportesYComercializaciónTRANSMI.dll
 D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\staticwebassets\TransportesYComercializaciónTRANSMI.StaticWebAssets.xml

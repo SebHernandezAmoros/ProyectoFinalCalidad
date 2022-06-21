@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ML2t754K3Ti5uacXS1MwkKWuOnvISSNP33hjzYJRGQ+tIHoDnaX/BuH3Nf87ya7xa+jOGWd2dDwCy2FVdws9mw==",
+  "dgSpecHash": "IJkax12TGaaJ1fu/Md0JT38bRZ/bSH8Aa0GMI9kSvFzvjBTvKgvmScfWynvQVAt4jgaveW6oPGW3aO/NVmPHwA==",
   "success": true,
-  "projectFilePath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj",
+  "projectFilePath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

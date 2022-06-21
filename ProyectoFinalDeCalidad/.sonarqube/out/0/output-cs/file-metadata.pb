@@ -21,6 +21,6 @@ uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transport
 ïD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteEmpleadoRepositorio.csutf-8ó
 çD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteRepositorio.csutf-8~
 uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Startup.csutf-8∂
-™D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8º
-∞D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\TransportesYComercializaci√≥nTRANSMI.AssemblyInfo.csutf-8¡
-µD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\TransportesYComercializaci√≥nTRANSMI.RazorAssemblyInfo.csutf-8
+™D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8£
+óD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Transmi.Web.AssemblyInfo.csutf-8®
+úD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Transmi.Web.RazorAssemblyInfo.csutf-8

@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TransportesYComercializaciónTRANSMI\TransportesYComercializaciónTRANSMI.csproj" />
+    <ProjectReference Include="..\TransportesYComercializaciónTRANSMI\Transmi.Web.csproj" />
   </ItemGroup>
 
 </Project>

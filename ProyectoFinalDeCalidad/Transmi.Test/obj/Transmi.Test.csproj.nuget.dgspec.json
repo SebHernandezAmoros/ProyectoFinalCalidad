@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj": {
-                "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj"
+              "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj": {
+                "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj"
               }
             }
           }
@@ -80,16 +80,16 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj": {
+    "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj",
-        "projectName": "TransportesYComercializaciónTRANSMI",
-        "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\TransportesYComercializaciónTRANSMI.csproj",
+        "projectUniqueName": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj",
+        "projectName": "Transmi.Web",
+        "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
         "outputPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\obj\\",
         "projectStyle": "PackageReference",
@@ -147,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

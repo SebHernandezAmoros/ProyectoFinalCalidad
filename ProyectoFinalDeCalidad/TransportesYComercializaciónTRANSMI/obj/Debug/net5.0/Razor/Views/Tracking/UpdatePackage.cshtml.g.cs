@@ -28,7 +28,9 @@ using TransportesYComercializaciónTRANSMI.Models;
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7cf8ee21d7867e03cd9417fff94b5cd9746f0923", @"/Views/Tracking/UpdatePackage.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7f9d80f82a4e8bb7f403ac7e96854e4fac8c99bb", @"/Views/_ViewImports.cshtml")]
+    #nullable restore
     public class Views_Tracking_UpdatePackage : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
+    #nullable disable
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("value", "Elige", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_1 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("value", "Lima", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -130,7 +132,7 @@ using TransportesYComercializaciónTRANSMI.Models;
 #line hidden
 #nullable disable
             WriteLiteral("</p>\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f09239586", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f09239632", async() => {
                 WriteLiteral("\r\n                <input id=\"IdPaquete\" name=\"IdPaquete\" type=\"hidden\"");
                 BeginWriteAttribute("value", " value=\"", 1071, "\"", 1097, 1);
 #nullable restore
@@ -142,7 +144,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
 #nullable disable
                 EndWriteAttribute();
                 WriteLiteral(">\r\n                <div class=\"mb-3\">\r\n                    <label for=\"CiudadActual\">Ingrese la ciudad actual:</label>\r\n                    <select class=\"form-control\" name=\"CiudadActual\" id=\"CiudadActual\">\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092310614", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092310660", async() => {
                     WriteLiteral("Elige");
                 }
                 );
@@ -158,7 +160,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092311861", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092311907", async() => {
                     WriteLiteral("Lima");
                 }
                 );
@@ -174,7 +176,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092313107", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092313153", async() => {
                     WriteLiteral("Trujillo");
                 }
                 );
@@ -190,7 +192,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092314357", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092314403", async() => {
                     WriteLiteral("Cajamarca");
                 }
                 );
@@ -206,7 +208,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092315608", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092315654", async() => {
                     WriteLiteral("Arequipa");
                 }
                 );
@@ -222,7 +224,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092316858", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092316904", async() => {
                     WriteLiteral("Cuzco");
                 }
                 );
@@ -244,7 +246,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                     <label for=""Estado"">Ingrese el estado actual:</label>
                     <select class=""form-control"" name=""Estado"" id=""Estado"">
                         ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092318357", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092318403", async() => {
                     WriteLiteral("Elige");
                 }
                 );
@@ -260,7 +262,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092319604", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092319650", async() => {
                     WriteLiteral("Partio");
                 }
                 );
@@ -276,7 +278,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092320852", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092320898", async() => {
                     WriteLiteral("Arribo");
                 }
                 );
@@ -292,7 +294,7 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092322100", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cf8ee21d7867e03cd9417fff94b5cd9746f092322146", async() => {
                     WriteLiteral("Despachado");
                 }
                 );
@@ -327,16 +329,26 @@ WriteAttributeValue("", 1079, ViewBag.IdPackage, 1079, 18, false);
             WriteLiteral("\r\n        </div>\r\n    </div>\r\n</div>");
         }
         #pragma warning restore 1998
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<dynamic> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<dynamic> Html { get; private set; } = default!;
+        #nullable disable
     }
 }
 #pragma warning restore 1591

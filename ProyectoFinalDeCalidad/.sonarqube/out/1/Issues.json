@@ -6,12 +6,101 @@
       "tool": {
         "name": "Compilador de Microsoft (R) Visual C#",
         "version": "4.2.0.0",
-        "fileVersion": "4.2.0-4.22220.2 (1e40aa11)",
+        "fileVersion": "4.2.0-4.22220.5 (432d17a8)",
         "semanticVersion": "4.2.0",
         "language": "es-ES"
       },
       "results": [
-      ]
+        {
+          "ruleId": "CA1829",
+          "level": "note",
+          "message": "Use the \"Count\" property instead of Enumerable.Count()",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositorie/ClienteRepositorioTest.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 32,
+                  "endLine": 41,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "PropertyNameKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1829",
+          "level": "note",
+          "message": "Use the \"Count\" property instead of Enumerable.Count()",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositorie/PaqueteRepositorioTest.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 32,
+                  "endLine": 45,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "PropertyNameKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1829",
+          "level": "note",
+          "message": "Use the \"Count\" property instead of Enumerable.Count()",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositorie/EmpleadoRepositorioTest.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 32,
+                  "endLine": 44,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "PropertyNameKey": "Count"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CA1829": {
+          "id": "CA1829",
+          "shortDescription": "Use Length/Count property instead of Count() when available",
+          "fullDescription": "Enumerable.Count() potentially enumerates the sequence while a Length/Count property is a direct access.",
+          "defaultLevel": "note",
+          "helpUri": "https://docs.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1829",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        }
+      }
     }
   ]
 }

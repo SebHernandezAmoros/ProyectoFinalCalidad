@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportesYComercializaciónTRANSMI", "TransportesYComercializaciónTRANSMI\TransportesYComercializaciónTRANSMI.csproj", "{1A2A735A-6F46-47A4-91EC-D33554E5D78A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transmi.Web", "TransportesYComercializaciónTRANSMI\Transmi.Web.csproj", "{1A2A735A-6F46-47A4-91EC-D33554E5D78A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transmi.Test", "Transmi.Test\Transmi.Test.csproj", "{A1ABFFA6-95CF-41F9-AB2A-02917D6C7556}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transmi.Test", "Transmi.Test\Transmi.Test.csproj", "{A1ABFFA6-95CF-41F9-AB2A-02917D6C7556}"
 	ProjectSection(ProjectDependencies) = postProject
 		{1A2A735A-6F46-47A4-91EC-D33554E5D78A} = {1A2A735A-6F46-47A4-91EC-D33554E5D78A}
 	EndProjectSection

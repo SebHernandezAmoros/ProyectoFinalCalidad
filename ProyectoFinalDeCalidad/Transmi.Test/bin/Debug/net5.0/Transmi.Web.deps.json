@@ -31,7 +31,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "TransportesYComercializaciónTRANSMI/1.0.0": {
+      "Transmi.Web/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
@@ -318,10 +318,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "TransportesYComercializaciónTRANSMI.dll": {}
+          "Transmi.Web.dll": {}
         },
         "compile": {
-          "TransportesYComercializaciónTRANSMI.dll": {}
+          "Transmi.Web.dll": {}
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -2975,7 +2975,7 @@
     }
   },
   "libraries": {
-    "TransportesYComercializaciónTRANSMI/1.0.0": {
+    "Transmi.Web/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -16,5 +16,5 @@
 ™D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\UpdatePackage.cshtml.g.csutf-8µ
 ©D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\Tracking\ViewPackages.cshtml.g.csutf-8¨
 †D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.csutf-8™
-ûD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.csutf-8«
-ªD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\TransportesYComercializaci√≥nTRANSMI.RazorTargetAssemblyInfo.csutf-8
+ûD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.csutf-8Æ
+¢D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\obj\Debug\net5.0\Transmi.Web.RazorTargetAssemblyInfo.csutf-8

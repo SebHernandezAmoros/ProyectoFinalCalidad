@@ -1,4 +1,4 @@
-’'
+Ω&
 àD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\AuthController.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
@@ -248,18 +248,8 @@ ModelState66 
 .OO/ 0
 FirstOrDefaultOO0 >
 (OO> ?
-xOO? @
-=>OOA C
-xOOD E
-.OOE F
-TypeOOF J
-==OOK M
-
-ClaimTypesOON X
-.OOX Y
-NameOOY ]
-)OO] ^
-;OO^ _
+)OO? @
+;OO@ A
 varPP 
 usernamePP 
 =PP 
@@ -440,7 +430,7 @@ Controller" ,
 ;..o p
 }// 	
 }00 
-}11 †∆
+}11 ·¬
 åD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\TrackingController.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
@@ -1528,33 +1518,22 @@ EmpleadoId
 	IdCliente
 ææe n
 =
-ææo p
-
-dbEntities
-ææq {
-.
-ææ{ |
-Clientesææ| Ñ
-.ææÑ Ö
-FirstOrDefaultææÖ ì
-(ææì î
-oææî ï
-=>ææñ ò
-oææô ö
-.ææö õ
-Dniææõ û
-==ææü °
-Actorsææ¢ ®
-[ææ® ©
-$numææ© ™
-]ææ™ ´
-.ææ´ ¨
-Dniææ¨ Ø
-)ææØ ∞
-.ææ∞ ±
-	ClienteIdææ± ∫
-}ææ∫ ª
-;ææª º
+ææo p!
+clienteRepositorioææq É
+.ææÉ Ñ
+ObtenerPorDniææÑ ë
+(ææë í
+Actorsææí ò
+[ææò ô
+$numææô ö
+]ææö õ
+.ææõ ú
+Dniææú ü
+)ææü †
+.ææ† °
+	ClienteIdææ° ™
+}ææ™ ´
+;ææ´ ¨
 PaqueteCliente
 øø 
 
@@ -1591,31 +1570,22 @@ PcReceptor
 	IdCliente
 øøn w
 =
-øøx y
-
-dbEntitiesøøz Ñ
-.øøÑ Ö
-ClientesøøÖ ç
-.øøç é
-FirstOrDefaultøøé ú
-(øøú ù
-oøøù û
-=>øøü °
-oøø¢ £
-.øø£ §
-Dniøø§ ß
-==øø® ™
-Actorsøø´ ±
-[øø± ≤
-$numøø≤ ≥
-]øø≥ ¥
-.øø¥ µ
-Dniøøµ ∏
-)øø∏ π
-.øøπ ∫
-	ClienteIdøø∫ √
-}øøƒ ≈
-;øø≈ ∆'
+øøx y!
+clienteRepositorioøøz å
+.øøå ç
+ObtenerPorDniøøç ö
+(øøö õ
+Actorsøøõ °
+[øø° ¢
+$numøø¢ £
+]øø£ §
+.øø§ •
+Dniøø• ®
+)øø® ©
+.øø© ™
+	ClienteIdøø™ ≥
+}øø¥ µ
+;øøµ ∂'
 paqueteClienteRepositorio
 √√ %
 .
@@ -2478,38 +2448,21 @@ ClaimTypes
 ;
 ¶¶& '
 return
-ßß 
-
-dbEntities
-ßß 
+ßß !
+empleadoRepositorio
+ßß &
 .
-ßß 
-	Empleados
-ßß '
-.
-ßß' (
-FirstOrDefault
-ßß( 6
+ßß& ' 
+ObtenerPorUserName
+ßß' 9
 (
-ßß6 7
-o
-ßß7 8
-=>
-ßß9 ;
-o
-ßß< =
-.
-ßß= >
-Usuario
-ßß> E
-==
-ßßF H
+ßß9 :
 username
-ßßI Q
+ßß: B
 )
-ßßQ R
+ßßB C
 ;
-ßßR S
+ßßC D
 }
 ®® 	
 }
@@ -3731,7 +3684,7 @@ dbEntities"" 
 ;""H I
 }## 	
 }$$ 
-}%% œ
+}%% Æ
 éD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\EmpleadoRepositorio.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
@@ -3771,114 +3724,147 @@ $TransportesYComercializaci√≥nTRANSMI
 int !
 id" $
 )$ %
-;% &
-} 
-public 
+;% &
+Empleado 
+ObtenerPorUserName #
+(# $
+string$ *
+username+ 3
+)3 4
+;4 5
+} 
+public 
 
-class 
-EmpleadoRepositorio $
-:% & 
-IEmpleadoRepositorio' ;
-{ 
-private 
+class 
+EmpleadoRepositorio $
+:% & 
+IEmpleadoRepositorio' ;
+{ 
+private 
 
-DbEntities 
+DbEntities 
 
-dbEntities %
-;% &
-public 
-EmpleadoRepositorio "
-(" #
+dbEntities %
+;% &
+public 
+EmpleadoRepositorio "
+(" #
 
-DbEntities# -
+DbEntities# -
 
-dbEntities. 8
-)8 9
-{ 	
-this 
-. 
+dbEntities. 8
+)8 9
+{ 	
+this 
+. 
 
-dbEntities 
-= 
+dbEntities 
+= 
 
-dbEntities (
-;( )
-} 	
-public 
-void 
-Guardar 
-( 
-Empleado $
-empleado% -
-)- .
-{ 	
-
-dbEntities 
-. 
-	Empleados  
-.  !
-Add! $
-($ %
-empleado% -
-)- .
-;. /
+dbEntities (
+;( )
+} 	
+public 
+void 
+Guardar 
+( 
+Empleado $
+empleado% -
+)- .
+{ 	
 
 dbEntities 
-. 
-SaveChanges "
-(" #
-)# $
-;$ %
-} 	
-public 
-Empleado 
-ObtenerPorId $
-($ %
-int% (
-id) +
-)+ ,
-{ 	
-return 
+. 
+	Empleados  
+.  !
+Add! $
+($ %
+empleado% -
+)- .
+;. /
 
-dbEntities 
-. 
-	Empleados '
-.' (
-FirstOrDefault( 6
-(6 7
-o7 8
-=>9 ;
-o< =
-.= >
+dbEntities 
+. 
+SaveChanges "
+(" #
+)# $
+;$ %
+} 	
+public 
+Empleado 
+ObtenerPorId $
+($ %
+int% (
+id) +
+)+ ,
+{ 	
+return   
 
-EmpleadoId> H
-==I K
-idL N
-)N O
-;O P
-}   	
-public"" 
-List"" 
-<"" 
-Empleado"" 
->"" 
-ObtenerTodos"" *
-(""* +
-)""+ ,
-{## 	
-return$$ 
+dbEntities   
+.   
+	Empleados   '
+.  ' (
+FirstOrDefault  ( 6
+(  6 7
+o  7 8
+=>  9 ;
+o  < =
+.  = >
 
-dbEntities$$ 
-.$$ 
-	Empleados$$ '
-.$$' (
-ToList$$( .
-($$. /
-)$$/ 0
-;$$0 1
-}%% 	
-}&& 
-}'' Õ"
+EmpleadoId  > H
+==  I K
+id  L N
+)  N O
+;  O P
+}!! 	
+public## 
+Empleado## 
+ObtenerPorUserName## *
+(##* +
+string##+ 1
+username##2 :
+)##: ;
+{$$ 	
+return%% 
+
+dbEntities%% 
+.%% 
+	Empleados%% '
+.%%' (
+FirstOrDefault%%( 6
+(%%6 7
+o%%7 8
+=>%%9 ;
+o%%< =
+.%%= >
+Usuario%%> E
+==%%F H
+username%%I Q
+)%%Q R
+;%%R S
+}&& 	
+public(( 
+List(( 
+<(( 
+Empleado(( 
+>(( 
+ObtenerTodos(( *
+(((* +
+)((+ ,
+{)) 	
+return** 
+
+dbEntities** 
+.** 
+	Empleados** '
+.**' (
+ToList**( .
+(**. /
+)**/ 0
+;**0 1
+}++ 	
+},, 
+}-- Õ"
 îD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteClienteRepositorio.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
