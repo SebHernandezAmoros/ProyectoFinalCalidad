@@ -1,5 +1,5 @@
-É
-àD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\AuthController.cs
+“
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\AuthController.cs
 
  (
  %    QQ 
@@ -23,8 +23,8 @@
 MM &HH *
 OO PP  
 PP QQI Q
-QQ7 8QQ< =´
-àD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\HomeController.cs
+QQ7 8QQ< =˙
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\HomeController.cs
  ! /& 4
 1 8 
 
@@ -41,8 +41,8 @@
 
 && $
 
-,, "™
-åD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\TrackingController.cs
+,, "˘
+\D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\TrackingController.cs
 
  #
  % R
@@ -208,8 +208,8 @@
 ••D E
 
 ¶¶ 
-ßß: B›
-{D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\DbEntities.cs
+ßß: B≠
+KD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\DbEntities.cs
  + 5
 
 & .
@@ -230,22 +230,22 @@
 7 >F M
 
   /F
-= I! -       ÿ
-áD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\ClienteMapping.cs
+= I! -       ß
+WD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\ClienteMapping.cs
 
  
 
  
 9 @  
-   !Ÿ
-àD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\EmpleadoMapping.cs
+   !®
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\EmpleadoMapping.cs
 
   
 
  
 : A  
-   !ü
-éD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\PaqueteClienteMapping.cs
+   !Ó
+^D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteClienteMapping.cs
 
  &
 
@@ -253,22 +253,22 @@
 @ G   
  & '3 4
 $ %) *
-  $ %‡
-èD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\PaqueteEmpleadoMapping.cs
+  $ %Ø
+_D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteEmpleadoMapping.cs
 
  '
 
  
 A H  
-   !ÿ
-áD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\PaqueteMapping.cs
+   !ß
+WD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteMapping.cs
 
  
 
  
 9 @  
-   !∆
-|D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\Cliente.cs
+   !ñ
+LD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Cliente.cs
 
  
 
@@ -282,8 +282,8 @@
 
  
 
- Î
-}D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\Empleado.cs
+ ª
+MD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Empleado.cs
 
  
 
@@ -303,14 +303,14 @@
 
  
 
- ¥
-ÉD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\ErrorViewModel.cs
+ É
+SD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\ErrorViewModel.cs
 
  
  		; D
 
-		 !Ç
-|D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\Paquete.cs
+		 !“
+LD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Paquete.cs
 
  
 
@@ -334,8 +334,8 @@
 
  !
 
- ¬
-ÉD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\PaqueteCliente.cs
+ ë
+SD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\PaqueteCliente.cs
 
  
 
@@ -347,8 +347,8 @@
 
  
 
- œ
-ÑD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\PaqueteEmpleado.cs
+ û
+TD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\PaqueteEmpleado.cs
 
   
 
@@ -362,8 +362,8 @@
 
  
 
- "Á
-uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Program.cs
+ "∑
+ED:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Program.cs
 
  
 
@@ -371,8 +371,8 @@ uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transport
 ) - "
 # 4 
 > B& *
-* 4 ¥
-çD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\ClienteRepositorio.cs
+* 4 É
+]D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\ClienteRepositorio.cs
 
 
  ($ 7
@@ -400,8 +400,8 @@ uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transport
 
    $
   , /""D G
-""6 7""; <è
-éD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\EmpleadoRepositorio.cs
+""6 7""; <ﬁ
+^D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\EmpleadoRepositorio.cs
 
 
  )' ;
@@ -437,8 +437,8 @@ uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transport
 ##2 :%%I Q
 %%7 8%%< =
 
-(( *Ö
-îD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteClienteRepositorio.cs
+(( *‘
+dD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteClienteRepositorio.cs
  /- G
 
  
@@ -481,8 +481,8 @@ uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transport
 ..$ 1
 ..6 822+ -
 11 11 
-22 22 ñ
-ïD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteEmpleadoRepositorio.cs
+22 22 Â
+eD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteEmpleadoRepositorio.cs
 
 
  0. I
@@ -518,8 +518,8 @@ uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transport
 ##> @%%J L
 %%5 6%%: ;
 
-((% 1∆
-çD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteRepositorio.cs
+((% 1ï
+]D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteRepositorio.cs
 
 
  (& 9
@@ -560,8 +560,8 @@ uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transport
 )) )
 
 .. $
-009 :00> ?˜
-uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Startup.cs
+009 :00> ?«
+ED:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Startup.cs
 
  
 

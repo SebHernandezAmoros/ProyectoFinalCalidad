@@ -1,8 +1,8 @@
-﻿D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Controller\TrackingControllerTest.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositorie\ClienteRepositorioTest.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositorie\EmpleadoRepositorioTest.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositorie\PaqueteRepositorioTest.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\UnitTest1.cs
+﻿D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Controllers\TrackingControllerTest.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\ClienteRepositorioTest.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\EmpleadoRepositorioTest.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\PaqueteRepositorioTest.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\UnitTest1.cs
 C:\Users\Asus\.nuget\packages\microsoft.net.test.sdk\16.9.4\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs
 C:\Users\Asus\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\testhost.exe
 C:\Users\Asus\.nuget\packages\microsoft.testplatform.testhost\16.9.4\build\netcoreapp2.1\x64\testhost.dll

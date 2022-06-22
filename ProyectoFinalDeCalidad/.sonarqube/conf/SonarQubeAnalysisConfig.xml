@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf</SonarConfigDir>
-  <SonarOutputDir>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out</SonarOutputDir>
-  <SonarBinDir>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad</SonarScannerWorkingDirectory>
+  <SonarConfigDir>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf</SonarConfigDir>
+  <SonarOutputDir>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out</SonarOutputDir>
+  <SonarBinDir>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonar-test.bit2bittest.com</SonarQubeHostUrl>
   <SonarQubeVersion>9.4.0.54424</SonarQubeVersion>
@@ -118,8 +118,8 @@
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RulesetPath>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-cs.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-cs-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.36.1.44192" StaticResourceName="SonarAnalyzer-8.36.1.44192.zip">
           <AssemblyPaths>
@@ -141,13 +141,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\cs\SonarLint.xml</Path>
+        <Path>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\cs\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RulesetPath>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
-      <DeactivatedRulesetPath>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
+      <RulesetPath>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-vbnet.ruleset</RulesetPath>
+      <DeactivatedRulesetPath>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\Sonar-vbnet-none.ruleset</DeactivatedRulesetPath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.36.1.44192" StaticResourceName="SonarAnalyzer-8.36.1.44192.zip">
           <AssemblyPaths>
@@ -169,7 +169,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\vbnet\SonarLint.xml</Path>
+        <Path>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\vbnet\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>

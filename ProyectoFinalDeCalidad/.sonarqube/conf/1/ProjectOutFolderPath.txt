@@ -1,1 +1,1 @@
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out\1
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out\1

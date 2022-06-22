@@ -18,31 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositorie/ClienteRepositorioTest.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 32,
-                  "endLine": 41,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "PropertyNameKey": "Count"
-            }
-          }
-        },
-        {
-          "ruleId": "CA1829",
-          "level": "note",
-          "message": "Use the \"Count\" property instead of Enumerable.Count()",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositorie/PaqueteRepositorioTest.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositories/PaqueteRepositorioTest.cs",
                 "region": {
                   "startLine": 45,
                   "startColumn": 32,
@@ -66,7 +42,31 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositorie/EmpleadoRepositorioTest.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositories/ClienteRepositorioTest.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 32,
+                  "endLine": 41,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "PropertyNameKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1829",
+          "level": "note",
+          "message": "Use the \"Count\" property instead of Enumerable.Count()",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Test/Repositories/EmpleadoRepositorioTest.cs",
                 "region": {
                   "startLine": 44,
                   "startColumn": 32,

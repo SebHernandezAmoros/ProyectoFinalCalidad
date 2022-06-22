@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj": {}
+    "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj": {}
   },
   "projects": {
-    "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj": {
+    "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj",
+        "projectUniqueName": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj",
         "projectName": "Transmi.Test",
-        "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj",
+        "projectPath": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\obj\\",
+        "outputPath": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj": {
-                "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj"
+              "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Web\\Transmi.Web.csproj": {
+                "projectPath": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Web\\Transmi.Web.csproj"
               }
             }
           }
@@ -80,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj": {
+    "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Web\\Transmi.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj",
+        "projectUniqueName": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Web\\Transmi.Web.csproj",
         "projectName": "Transmi.Web",
-        "projectPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\Transmi.Web.csproj",
+        "projectPath": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Web\\Transmi.Web.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\TransportesYComercializaciónTRANSMI\\obj\\",
+        "outputPath": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

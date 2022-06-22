@@ -1,94 +1,94 @@
-﻿D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Controllers\AuthController.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Controllers\HomeController.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Controllers\TrackingController.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\DB\DbEntities.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\DB\Mapping\ClienteMapping.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\DB\Mapping\EmpleadoMapping.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\DB\Mapping\PaqueteClienteMapping.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\DB\Mapping\PaqueteEmpleadoMapping.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\DB\Mapping\PaqueteMapping.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Models\Cliente.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Models\Empleado.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Models\ErrorViewModel.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Models\Paquete.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Models\PaqueteCliente.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Models\PaqueteEmpleado.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Program.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Repositories\ClienteRepositorio.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Repositories\EmpleadoRepositorio.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Repositories\PaqueteClienteRepositorio.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Repositories\PaqueteEmpleadoRepositorio.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Repositories\PaqueteRepositorio.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Startup.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Transmi.Web.AssemblyInfo.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\obj\Debug\net5.0\Transmi.Web.RazorAssemblyInfo.cs
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Auth\Init.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Auth\Login.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Home\Contactanos.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Home\Index.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Home\Nosotros.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Home\Privacy.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Home\Servicios.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Shared\Error.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Shared\_Layout.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Shared\_ValidationScriptsPartial.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Tracking\CreateActors.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Tracking\CreatePackage.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Tracking\Index.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Tracking\SearchTracking.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Tracking\UpdatePackage.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\Tracking\ViewPackages.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\_ViewImports.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Views\_ViewStart.cshtml
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\css\site.css
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\favicon.ico
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\Autos.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\CamionFoto.jpg
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\CamionFoto.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\CamionFoto2.jpg
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\Correo.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\logo.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\Map.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\Nosotros1.jpg
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\Paquete.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\services.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\ServiciosPort.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\Images\Telefono.png
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\js\site.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\bootstrap\LICENSE
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation\dist\additional-methods.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery-validation\LICENSE.md
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery\dist\jquery.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery\dist\jquery.min.js
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery\dist\jquery.min.map
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\wwwroot\lib\jquery\LICENSE.txt
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\appsettings.Development.json
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\appsettings.json
-D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Properties\launchSettings.json
+﻿D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\AuthController.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\HomeController.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\TrackingController.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\DbEntities.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\ClienteMapping.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\EmpleadoMapping.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteClienteMapping.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteEmpleadoMapping.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteMapping.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Cliente.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Empleado.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\ErrorViewModel.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Paquete.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\PaqueteCliente.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\PaqueteEmpleado.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Program.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\ClienteRepositorio.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\EmpleadoRepositorio.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteClienteRepositorio.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteEmpleadoRepositorio.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteRepositorio.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Startup.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.AssemblyInfo.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.RazorAssemblyInfo.cs
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Auth\Init.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Auth\Login.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Home\Contactanos.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Home\Index.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Home\Nosotros.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Home\Privacy.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Home\Servicios.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Shared\Error.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Shared\_Layout.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Shared\_ValidationScriptsPartial.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Tracking\CreateActors.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Tracking\CreatePackage.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Tracking\Index.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Tracking\SearchTracking.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Tracking\UpdatePackage.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\Tracking\ViewPackages.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\_ViewImports.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Views\_ViewStart.cshtml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\css\site.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\favicon.ico
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\Autos.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\CamionFoto.jpg
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\CamionFoto.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\CamionFoto2.jpg
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\Correo.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\logo.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\Map.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\Nosotros1.jpg
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\Paquete.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\services.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\ServiciosPort.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\Images\Telefono.png
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\js\site.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\bootstrap\LICENSE
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery-validation\LICENSE.md
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery\dist\jquery.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery\dist\jquery.min.js
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery\dist\jquery.min.map
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery\LICENSE.txt
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\appsettings.Development.json
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\appsettings.json
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Properties\launchSettings.json

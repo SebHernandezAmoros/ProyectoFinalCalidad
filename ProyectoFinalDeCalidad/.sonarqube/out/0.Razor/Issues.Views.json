@@ -21,7 +21,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 67,
@@ -45,7 +45,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Nosotros.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Home/Nosotros.cshtml.g.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 67,
@@ -69,7 +69,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 67,
@@ -93,7 +93,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Contactanos.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Home/Contactanos.cshtml.g.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 67,
@@ -117,7 +117,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs",
                 "region": {
                   "startLine": 35,
                   "startColumn": 67,
@@ -141,7 +141,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 67,
@@ -165,7 +165,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Servicios.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Home/Servicios.cshtml.g.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 67,
@@ -189,7 +189,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Auth/Login.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Auth/Login.cshtml.g.cs",
                 "region": {
                   "startLine": 63,
                   "startColumn": 210,
@@ -213,7 +213,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
                 "region": {
                   "startLine": 103,
                   "startColumn": 207,
@@ -237,7 +237,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
                 "region": {
                   "startLine": 131,
                   "startColumn": 207,
@@ -261,7 +261,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Auth/Init.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Auth/Init.cshtml.g.cs",
                 "region": {
                   "startLine": 61,
                   "startColumn": 210,
@@ -285,7 +285,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
                   "startLine": 61,
                   "startColumn": 212,
@@ -309,7 +309,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
                 "region": {
                   "startLine": 75,
                   "startColumn": 212,
@@ -333,7 +333,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/ViewPackages.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/ViewPackages.cshtml.g.cs",
                 "region": {
                   "startLine": 63,
                   "startColumn": 210,
@@ -357,7 +357,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/Index.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/Index.cshtml.g.cs",
                 "region": {
                   "startLine": 63,
                   "startColumn": 210,
@@ -381,7 +381,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreateActors.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreateActors.cshtml.g.cs",
                 "region": {
                   "startLine": 81,
                   "startColumn": 210,
@@ -405,7 +405,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/SearchTracking.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/SearchTracking.cshtml.g.cs",
                 "region": {
                   "startLine": 62,
                   "startColumn": 210,
@@ -429,583 +429,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 147,
-                  "startColumn": 217,
-                  "endLine": 147,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 163,
-                  "startColumn": 217,
-                  "endLine": 163,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 179,
-                  "startColumn": 217,
-                  "endLine": 179,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 195,
-                  "startColumn": 217,
-                  "endLine": 195,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 211,
-                  "startColumn": 217,
-                  "endLine": 211,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 227,
-                  "startColumn": 217,
-                  "endLine": 227,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 249,
-                  "startColumn": 217,
-                  "endLine": 249,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 265,
-                  "startColumn": 217,
-                  "endLine": 265,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 281,
-                  "startColumn": 217,
-                  "endLine": 281,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 297,
-                  "startColumn": 217,
-                  "endLine": 297,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 96,
-                  "startColumn": 209,
-                  "endLine": 96,
-                  "endColumn": 211
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 111,
-                  "startColumn": 209,
-                  "endLine": 111,
-                  "endColumn": 211
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 141,
-                  "startColumn": 212,
-                  "endLine": 141,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 175,
-                  "startColumn": 212,
-                  "endLine": 175,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 196,
-                  "startColumn": 212,
-                  "endLine": 196,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 217,
-                  "startColumn": 212,
-                  "endLine": 217,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 238,
-                  "startColumn": 212,
-                  "endLine": 238,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 259,
-                  "startColumn": 212,
-                  "endLine": 259,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 280,
-                  "startColumn": 212,
-                  "endLine": 280,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 311,
-                  "startColumn": 212,
-                  "endLine": 311,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 336,
-                  "startColumn": 212,
-                  "endLine": 336,
-                  "endColumn": 214
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 358,
-                  "startColumn": 217,
-                  "endLine": 358,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 372,
-                  "startColumn": 217,
-                  "endLine": 372,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
-                "region": {
-                  "startLine": 386,
-                  "startColumn": 217,
-                  "endLine": 386,
-                  "endColumn": 219
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS1998",
-          "level": "warning",
-          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 172,
                   "startColumn": 217,
@@ -1029,7 +453,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 188,
                   "startColumn": 217,
@@ -1053,7 +477,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 204,
                   "startColumn": 217,
@@ -1077,7 +501,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 220,
                   "startColumn": 217,
@@ -1101,7 +525,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 236,
                   "startColumn": 217,
@@ -1125,7 +549,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 260,
                   "startColumn": 217,
@@ -1149,7 +573,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 276,
                   "startColumn": 217,
@@ -1173,7 +597,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 292,
                   "startColumn": 217,
@@ -1197,7 +621,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 308,
                   "startColumn": 217,
@@ -1221,7 +645,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
                 "region": {
                   "startLine": 324,
                   "startColumn": 217,
@@ -1236,16 +660,592 @@
           }
         },
         {
-          "ruleId": "CS0169",
+          "ruleId": "CS1998",
           "level": "warning",
-          "message": "El campo 'Views_Auth_Login.__tagHelperStringValueBuffer' nunca se usa",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Auth/Login.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 217,
+                  "endLine": 147,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 163,
+                  "startColumn": 217,
+                  "endLine": 163,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 179,
+                  "startColumn": 217,
+                  "endLine": 179,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 195,
+                  "startColumn": 217,
+                  "endLine": 195,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 211,
+                  "startColumn": 217,
+                  "endLine": 211,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 227,
+                  "startColumn": 217,
+                  "endLine": 227,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 249,
+                  "startColumn": 217,
+                  "endLine": 249,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 265,
+                  "startColumn": 217,
+                  "endLine": 265,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 281,
+                  "startColumn": 217,
+                  "endLine": 281,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 297,
+                  "startColumn": 217,
+                  "endLine": 297,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 209,
+                  "endLine": 96,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 209,
+                  "endLine": 111,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 141,
+                  "startColumn": 212,
+                  "endLine": 141,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 175,
+                  "startColumn": 212,
+                  "endLine": 175,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 196,
+                  "startColumn": 212,
+                  "endLine": 196,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 212,
+                  "endLine": 217,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 238,
+                  "startColumn": 212,
+                  "endLine": 238,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 212,
+                  "endLine": 259,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 280,
+                  "startColumn": 212,
+                  "endLine": 280,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 311,
+                  "startColumn": 212,
+                  "endLine": 311,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 336,
+                  "startColumn": 212,
+                  "endLine": 336,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 358,
+                  "startColumn": 217,
+                  "endLine": 358,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 372,
+                  "startColumn": 217,
+                  "endLine": 372,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "El método asincrónico carece de operadores \"await\" y se ejecutará de forma sincrónica. Puede usar el operador 'await' para esperar llamadas API que no sean de bloqueo o 'await Task.Run(...)' para hacer tareas enlazadas a la CPU en un subproceso en segundo plano.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 386,
+                  "startColumn": 217,
+                  "endLine": 386,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Tracking_Index.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/Index.cshtml.g.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 24,
@@ -1262,14 +1262,134 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "El campo 'Views_Tracking_Index.__tagHelperStringValueBuffer' nunca se usa",
+          "message": "El campo 'Views_Tracking_UpdatePackage.__tagHelperStringValueBuffer' nunca se usa",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/Index.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 24,
+                  "endLine": 52,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Tracking_CreateActors.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreateActors.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Home_Index.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 24,
+                  "endLine": 47,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Tracking_CreatePackage.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 24,
+                  "endLine": 48,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Auth_Login.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Auth/Login.cshtml.g.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 24,
@@ -1293,155 +1413,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Auth/Init.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Auth/Init.cshtml.g.cs",
                 "region": {
                   "startLine": 41,
                   "startColumn": 24,
                   "endLine": 41,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Tracking_CreateActors.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreateActors.cshtml.g.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 24,
-                  "endLine": 43,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Tracking_ViewPackages.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/ViewPackages.cshtml.g.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 24,
-                  "endLine": 43,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Tracking_SearchTracking.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/SearchTracking.cshtml.g.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 24,
-                  "endLine": 41,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Tracking_UpdatePackage.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/UpdatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Tracking_CreatePackage.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Tracking/CreatePackage.cshtml.g.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 24,
-                  "endLine": 48,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0169",
-          "level": "warning",
-          "message": "El campo 'Views_Home_Index.__tagHelperStringValueBuffer' nunca se usa",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
-                "region": {
-                  "startLine": 47,
-                  "startColumn": 24,
-                  "endLine": 47,
                   "endColumn": 52
                 }
               }
@@ -1461,7 +1437,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
                 "region": {
                   "startLine": 63,
                   "startColumn": 24,
@@ -1478,14 +1454,38 @@
         {
           "ruleId": "CS0169",
           "level": "warning",
-          "message": "El campo 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' nunca se usa",
+          "message": "El campo 'Views_Tracking_SearchTracking.__tagHelperStringValueBuffer' nunca se usa",
           "suppressionStates": [
             "suppressedInSource"
           ],
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/CICLOS/Ciclo%209/Calidad/ProyectoFinalCalidad/ProyectoFinalDeCalidad/TransportesYComercializaci%C3%B3nTRANSMI/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/SearchTracking.cshtml.g.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 24,
+                  "endLine": 41,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "El campo 'Views_Tracking_ViewPackages.__tagHelperStringValueBuffer' nunca se usa",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/ProyectoFinalCalidad/ProyectoFinalDeCalidad/Transmi.Web/obj/Debug/net5.0/Razor/Views/Tracking/ViewPackages.cshtml.g.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 24,

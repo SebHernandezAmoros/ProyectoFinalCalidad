@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YX/O2AJ6XkNOep6KWUXTENjwIlwCxL45LyXbUNFMcnynKN5VmMSurNnN3oYvUvbz2gOmLAqqSpYe7qrB8v87GA==",
+  "dgSpecHash": "L2rKNPjD433QSPPbPoMZhylx+2ob2APc2/lZ1f7JDDJ+MST6n8Bbp/ZuOK5iXcJQb6YHI5rry8cEUltXWhuQ0Q==",
   "success": true,
-  "projectFilePath": "D:\\CICLOS\\Ciclo 9\\Calidad\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj",
+  "projectFilePath": "D:\\ProyectoFinalCalidad\\ProyectoFinalDeCalidad\\Transmi.Test\\Transmi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

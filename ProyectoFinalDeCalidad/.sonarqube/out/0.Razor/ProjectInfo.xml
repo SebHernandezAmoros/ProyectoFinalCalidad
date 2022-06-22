@@ -3,15 +3,15 @@
   <ProjectName>Transmi.Web</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>1a2a735a-6f46-47a4-91ec-d33554e5d78a</ProjectGuid>
-  <FullPath>D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaciónTRANSMI\Transmi.Web.csproj</FullPath>
+  <ProjectGuid>cce58a93-69dd-4ad3-8f8d-7e6c14a7f577</ProjectGuid>
+  <FullPath>D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Transmi.Web.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\0\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\conf\0\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out\0.Razor\Issues.Views.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out\0.Razor</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out\0.Razor\Issues.Views.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\.sonarqube\out\0.Razor</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

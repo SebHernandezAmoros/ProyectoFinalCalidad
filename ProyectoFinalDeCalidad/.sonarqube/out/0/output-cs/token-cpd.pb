@@ -1,5 +1,5 @@
-Ω&
-àD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\AuthController.cs
+å&
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\AuthController.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -276,8 +276,8 @@ dbEntitiesQQ 
 ;QQR S
 }RR 	
 }SS 
-}TT æ
-àD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\HomeController.cs
+}TT ç
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\HomeController.cs
 	namespace
 
  	0
@@ -430,8 +430,8 @@ Controller" ,
 ;..o p
 }// 	
 }00 
-}11 ·¬
-åD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Controllers\TrackingController.cs
+}11 ∞¬
+\D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\TrackingController.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -2467,8 +2467,8 @@ ClaimTypes
 ®® 	
 }
 ©© 
-}™™ ™
-{D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\DbEntities.cs
+}™™ ˙
+KD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\DbEntities.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
  -
@@ -2656,8 +2656,8 @@ DbEntities+ 5
 ;  A B
 }!! 	
 }## 
-}$$ ©
-áD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\ClienteMapping.cs
+}$$ ¯
+WD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\ClienteMapping.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
  -
@@ -2711,8 +2711,8 @@ $TransportesYComercializaci√≥nTRANSMI		
 ;, -
 } 	
 } 
-} Æ
-àD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\EmpleadoMapping.cs
+} ˝
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\EmpleadoMapping.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
  -
@@ -2767,8 +2767,8 @@ EmpleadoId" ,
 ;- .
 } 	
 } 
-} Ç
-éD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\PaqueteClienteMapping.cs
+} —
+^D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteClienteMapping.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
  -
@@ -2856,8 +2856,8 @@ $TransportesYComercializaci√≥nTRANSMI		
 ;0 1
 } 	
 } 
-} “
-èD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\PaqueteEmpleadoMapping.cs
+} °
+_D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteEmpleadoMapping.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
  -
@@ -2911,8 +2911,8 @@ $TransportesYComercializaci√≥nTRANSMI		
 ;5 6
 } 	
 } 
-} ©
-áD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\DB\Mapping\PaqueteMapping.cs
+} ¯
+WD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\PaqueteMapping.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
  -
@@ -2966,8 +2966,8 @@ $TransportesYComercializaci√≥nTRANSMI		
 ;, -
 } 	
 } 
-} ⁄
-|D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\Cliente.cs
+} ™
+LD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Cliente.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3043,8 +3043,8 @@ $TransportesYComercializaci√≥nTRANSMI
 ;$ %
 }& '
 } 
-} ≥
-}D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\Empleado.cs
+} É
+MD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Empleado.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3148,8 +3148,8 @@ EmpleadoId
 ;& '
 }( )
 } 
-} Í
-ÉD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\ErrorViewModel.cs
+} π
+SD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\ErrorViewModel.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3185,8 +3185,8 @@ $TransportesYComercializaci√≥nTRANSMI
 }
 
  
-} ˙
-|D:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\Paquete.cs
+}  
+LD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\Paquete.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3311,8 +3311,8 @@ CiudadMeta  
 ;% &
 }' (
 } 
-} ‚
-ÉD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\PaqueteCliente.cs
+} ±
+SD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\PaqueteCliente.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3380,8 +3380,8 @@ $TransportesYComercializaci√≥nTRANSMI
 ;* +
 }, -
 } 
-} Ñ	
-ÑD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Models\PaqueteEmpleado.cs
+} ”
+TD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Models\PaqueteEmpleado.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3458,9 +3458,9 @@ IdEmpleado
 ;- .
 }/ 0
 } 
-} Á
+} ∑
 
-uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Program.cs
+ED:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Program.cs
 	namespace
 
  	0
@@ -3538,8 +3538,8 @@ UseStartup )
 ) 
 ; 
 } 
-} ¬
-çD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\ClienteRepositorio.cs
+} ë
+]D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\ClienteRepositorio.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3684,8 +3684,8 @@ dbEntities"" 
 ;""H I
 }## 	
 }$$ 
-}%% Æ
-éD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\EmpleadoRepositorio.cs
+}%% ˝
+^D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\EmpleadoRepositorio.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -3864,8 +3864,8 @@ dbEntities** 
 ;**0 1
 }++ 	
 },, 
-}-- Õ"
-îD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteClienteRepositorio.cs
+}-- ú"
+dD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteClienteRepositorio.cs
 	namespace		 	0
 $TransportesYComercializaci√≥nTRANSMI		
  -
@@ -4111,8 +4111,8 @@ dbEntities00 
 ;227 8
 }33 	
 }44 
-}55 Ê
-ïD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteEmpleadoRepositorio.cs
+}55 µ
+eD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteEmpleadoRepositorio.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -4311,8 +4311,8 @@ dbEntities** 
 ;**7 8
 }++ 	
 },, 
-}-- ∂
-çD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Repositories\PaqueteRepositorio.cs
+}-- Ö
+]D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Repositories\PaqueteRepositorio.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
@@ -4531,8 +4531,8 @@ dbEntities00 
 ;00R S
 }11 	
 }22 
-}33 ÿ$
-uD:\CICLOS\Ciclo 9\Calidad\ProyectoFinalCalidad\ProyectoFinalDeCalidad\TransportesYComercializaci√≥nTRANSMI\Startup.cs
+}33 ®$
+ED:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Startup.cs
 	namespace 	0
 $TransportesYComercializaci√≥nTRANSMI
  -
