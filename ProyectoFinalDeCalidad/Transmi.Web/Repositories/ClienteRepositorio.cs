@@ -15,7 +15,7 @@ namespace TransportesYComercializaciónTRANSMI.Repositories
     }
     public class ClienteRepositorio:IClienteRepositorio
     {
-        private DbEntities dbEntities;
+        private readonly DbEntities dbEntities;
         public ClienteRepositorio(DbEntities dbEntities)
         {
             this.dbEntities = dbEntities;

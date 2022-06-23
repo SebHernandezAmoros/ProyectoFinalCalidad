@@ -46,8 +46,8 @@ D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Tran
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.RazorAssemblyInfo.cache
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.RazorAssemblyInfo.cs
-D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\staticwebassets\Transmi.Web.StaticWebAssets.Manifest.cache
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\scopedcss\bundle\Transmi.Web.styles.css
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\staticwebassets\Transmi.Web.StaticWebAssets.Manifest.cache
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.TagHelpers.input.cache
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.TagHelpers.output.cache
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.RazorCoreGenerate.cache
@@ -74,8 +74,7 @@ D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Tran
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.Views.pdb
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.csproj.CopyComplete
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.dll
-D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\ref\Transmi.Web.dll
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\refint\Transmi.Web.dll
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.pdb
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\Transmi.Web.genruntimeconfig.cache
-D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\bin\Debug\net5.0\ref\Transmi.Web.dll
-D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\staticwebassets\Transmi.Web.StaticWebAssets.xml
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\ref\Transmi.Web.dll

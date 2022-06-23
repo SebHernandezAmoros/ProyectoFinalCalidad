@@ -23,7 +23,6 @@ namespace Transmi.Test.Controllers
         private IQueryable data;
         private IQueryable data2;
         private IQueryable data3;
-        private IQueryable data4;
         [SetUp]
         public void Setup()
         {
@@ -86,7 +85,7 @@ namespace Transmi.Test.Controllers
             ClienteRepositorio Clienterepo = new ClienteRepositorio(mockDB3.Object);
             //-------------------------------------------------------------------------------------------------
             
-            trackingController = new TrackingController(Clienterepo, Empleadorepo, Paqueterepo, mockPaqueteClienteRepositorio.Object, mockPaqueteEmpleadoRepositorio.Object, mockDB.Object);
+            trackingController = new TrackingController(Clienterepo, Empleadorepo, Paqueterepo, mockPaqueteClienteRepositorio.Object, mockPaqueteEmpleadoRepositorio.Object);
         }
 
         [Test]

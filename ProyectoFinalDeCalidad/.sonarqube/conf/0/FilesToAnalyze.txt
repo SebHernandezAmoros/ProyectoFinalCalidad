@@ -92,3 +92,4 @@ D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\wwwroot\lib\jquery\LI
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\appsettings.Development.json
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\appsettings.json
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Properties\launchSettings.json
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\obj\Debug\net5.0\apphost.exe

@@ -28,7 +28,9 @@ using TransportesYComercializaciónTRANSMI.Models;
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"18173827aafd555681ea97d5caa08c375984faf9", @"/Views/Tracking/CreatePackage.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7f9d80f82a4e8bb7f403ac7e96854e4fac8c99bb", @"/Views/_ViewImports.cshtml")]
+    #nullable restore
     public class Views_Tracking_CreatePackage : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
+    #nullable disable
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("value", "Lima", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_1 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("value", "Trujillo", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -64,7 +66,7 @@ using TransportesYComercializaciónTRANSMI.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<div class=\"container\">\r\n    <div class=\"row\">\r\n        <div class=\"col-6 offset-3\">\r\n            <h1 id=\"TituloFormularioPaquete\">Formulario de paquete</h1>\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf95794", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf95840", async() => {
                 WriteLiteral("\r\n                <div class=\"mb-3\">\r\n                    <label for=\"Contenido\">Ingrese el contenido:</label>\r\n                    <input type=\"text\" class=\"form-control\" name=\"Contenido\" id=\"Contenido\"");
                 BeginWriteAttribute("value", " value=\"", 427, "\"", 451, 1);
 #nullable restore
@@ -167,7 +169,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                     <label for=""CiudadOrigen"">Ingrese ciudad de origen:</label>
                     <select class=""form-control"" name=""CiudadOrigen"" id=""CiudadOrigen"">
                         ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf911150", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf911196", async() => {
                     WriteLiteral("Lima");
                 }
                 );
@@ -183,7 +185,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf912396", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf912442", async() => {
                     WriteLiteral("Trujillo");
                 }
                 );
@@ -199,7 +201,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf913646", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf913692", async() => {
                     WriteLiteral("Cajamarca");
                 }
                 );
@@ -215,7 +217,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf914897", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf914943", async() => {
                     WriteLiteral("Arequipa");
                 }
                 );
@@ -231,7 +233,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf916147", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf916193", async() => {
                     WriteLiteral("Cuzco");
                 }
                 );
@@ -255,7 +257,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
 #line hidden
 #nullable disable
                 WriteLiteral("</p>\r\n                </div>\r\n                <div class=\"mb-3\">\r\n                    <label for=\"CiudadMeta\">Ingrese ciudad meta:</label>\r\n                    <select class=\"form-control\" name=\"CiudadMeta\" id=\"CiudadMeta\">\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf918008", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf918054", async() => {
                     WriteLiteral("Lima");
                 }
                 );
@@ -271,7 +273,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf919254", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf919300", async() => {
                     WriteLiteral("Trujillo");
                 }
                 );
@@ -287,7 +289,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf920504", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf920550", async() => {
                     WriteLiteral("Cajamarca");
                 }
                 );
@@ -303,7 +305,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf921755", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf921801", async() => {
                     WriteLiteral("Arequipa");
                 }
                 );
@@ -319,7 +321,7 @@ WriteAttributeValue("", 1720, Model.DimensionZ, 1720, 17, false);
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf923005", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18173827aafd555681ea97d5caa08c375984faf923051", async() => {
                     WriteLiteral("Cuzco");
                 }
                 );
@@ -396,16 +398,26 @@ WriteAttributeValue("", 3409, Model.PrecioEnvio, 3409, 18, false);
             WriteLiteral("\r\n        </div>\r\n    </div>\r\n</div>");
         }
         #pragma warning restore 1998
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<dynamic> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<dynamic> Html { get; private set; } = default!;
+        #nullable disable
     }
 }
 #pragma warning restore 1591

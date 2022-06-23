@@ -140,4 +140,4 @@ D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Tra
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\ref\Transmi.Test.dll
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Transmi.Test.pdb
 D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\Transmi.Test.genruntimeconfig.cache
-D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\bin\Debug\net5.0\ref\Transmi.Test.dll
+D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\obj\Debug\net5.0\refint\Transmi.Test.dll

@@ -42,7 +42,7 @@ namespace Transmi.Test.Repositories
         public void ObtenerTodosTest()
         {
             var result = Paqueterepo.ObtenerTodos();
-            Assert.AreEqual(2, result.Count());
+            Assert.AreEqual(2, result.Count);
         }
         [Test]
         public void ObtenerPorIdTest()

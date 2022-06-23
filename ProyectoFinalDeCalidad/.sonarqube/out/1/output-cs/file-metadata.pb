@@ -1,7 +1,9 @@
 j
 aD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Controllers\TrackingControllerTest.csutf-8k
 bD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\ClienteRepositorioTest.csutf-8l
-cD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\EmpleadoRepositorioTest.csutf-8k
+cD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\EmpleadoRepositorioTest.csutf-8r
+iD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\PaqueteClienteRepositorioTest.csutf-8s
+jD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\PaqueteEmpleadoRepositorioTest.csutf-8k
 bD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\Repositories\PaqueteRepositorioTest.csutf-8Q
 HD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Test\UnitTest1.csutf-8|
 qC:\Users\Asus\.nuget\packages\microsoft.net.test.sdk\16.9.4\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8†

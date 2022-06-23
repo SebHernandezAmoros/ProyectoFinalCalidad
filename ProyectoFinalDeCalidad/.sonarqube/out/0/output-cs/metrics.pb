@@ -1,11 +1,10 @@
-È
-XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\AuthController.cs 8	j
-"*-./01=rA	
- !#$%&'(+2356789;<>?@ABCEFGHJKMNOPQRSTx‚ %'+2568;ABHJOPQš
-XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\HomeController.cs 8	r,
- !"#$&'()+,-./01‚#(.µ
-\D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\TrackingController.csf 80j+$.123Amnz‰§¨­®¹ºÀÁÂĞÕãöüı™rô	
-!"#&')*+,/056789:;=>?@CDEFGIJKLMNOPQRSTUVWXYZ[\]^_`abcdghiklostvwxy{|}~€ƒ„†‡ˆŠŒ‘’“”•–—˜™š›œŸ ¡¢£¥¦©ª«¬¯°²³´µ¶·¸»¾¿ÃÄÆÇÉÊËÌÍÎÏÑÒÓÔÖ×ÙÚÛŞßàáâäæçèéêëìíîïğñòóôõ÷øùúûş€„…†‡ˆ‰Š‹Œ‘’“”•—˜šœŸ ¡£¤¥¦§¨©ªx'‚¥#&,/0578:CIKMOQSUWY[]_acgikos{|ƒŠŒ’”–˜›Ÿ¡¢¥©«¯³µ¶·»¾¿ÃÄÆÎÑÖÙÚâäæëíïñóõ÷øúûş€ˆ‰‹Œ‘’”šœ ¥¦§‚
+Æ
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\AuthController.cs 8	j(+,-./;rA	
+ !"#$%&)01345679:<=>?@ACDEFHIKLMNOPQRx‚#%)03469?@FHMNO—
+XD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\HomeController.cs 8	r*
+ !#$%&()*+,-.‚ %+ı
+\D:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\Controllers\TrackingController.cse 80rë	
+!"#%&()*+-.012345689:;=>?@ACDEFGHIJKLMNOPQRSTUVWXYZ[\]^abcefgklnopqrstuvwxz{}~€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™›œŸ ¡¢¤¥¦§¨©ª«®¯±²´µ·¸¹º»¼½¾¿ÀÁÂÃÅÆÇÊËÌÍÎÏÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæèéìíîïğñòóôõö÷øùúûüıÿ€ƒ„…†‡ˆŠ‹Œ‘x'‚£#%+-.0235=CEGIKMOQSUWY[]acegkrsz€‚„†ˆŠŒ‘“•—˜›Ÿ¡¥§¨©«®¯±²´¼¾ÂÅÆÎÏÑÖØÚÜŞàáâäåæèğñóôö÷ùúüƒ…‡Œ‚
 KD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\DbEntities.cs 8jr	
  !#$‚ z
 WD:\ProyectoFinalCalidad\ProyectoFinalDeCalidad\Transmi.Web\DB\Mapping\ClienteMapping.cs 8r	

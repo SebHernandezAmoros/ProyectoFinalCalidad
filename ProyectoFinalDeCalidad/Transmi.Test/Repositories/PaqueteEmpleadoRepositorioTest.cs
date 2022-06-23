@@ -42,7 +42,7 @@ namespace Transmi.Test.Repositories
         public void ObtenerTodosTest()
         {
             var result = PaqueteEmpleadorepo.ObtenerTodos();
-            Assert.AreEqual(3, result.Count());
+            Assert.AreEqual(3, result.Count);
         }
         [Test]
         public void ObtenerPorIdPaqueteTest()

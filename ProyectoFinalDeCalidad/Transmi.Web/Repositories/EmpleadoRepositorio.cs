@@ -16,7 +16,7 @@ namespace TransportesYComercializaciónTRANSMI.Repositories
     }
     public class EmpleadoRepositorio : IEmpleadoRepositorio
     {
-        private DbEntities dbEntities;
+        private readonly DbEntities dbEntities;
         public EmpleadoRepositorio(DbEntities dbEntities)
         {
             this.dbEntities = dbEntities;

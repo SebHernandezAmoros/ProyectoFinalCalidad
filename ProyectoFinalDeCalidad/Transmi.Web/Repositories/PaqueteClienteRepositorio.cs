@@ -18,7 +18,7 @@ namespace TransportesYComercializaciónTRANSMI.Repositories
     }
     public class PaqueteClienteRepositorio : IPaqueteClienteRepositorio
     {
-        private DbEntities dbEntities;
+        private readonly DbEntities dbEntities;
         public PaqueteClienteRepositorio(DbEntities dbEntities)
         {
             this.dbEntities = dbEntities;

@@ -13,7 +13,7 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
 {
     public class AuthController : Controller
     {
-        private DbEntities dbEntities;
+        private readonly DbEntities dbEntities;
         public AuthController(DbEntities dbEntities)
         {
             this.dbEntities = dbEntities;
@@ -28,10 +28,8 @@ namespace TransportesYComercializaciónTRANSMI.Controllers
         public IActionResult Login(string Username, string Password)
         {
             //Si el usuario existe en la base de datos generar la cookie, caso contrario mandar mensaje de error
-            //if (DbEntities.Usuarios.Any(x => x.Username == Username && x.Password == Password))
             if(dbEntities.Empleados.Any(o => o.Usuario == Username && o.Clave == Password))
             {
-                //Para crear la cookie necesitas todo esto
                 var claims = new List<Claim>()
                 {
                     new Claim(ClaimTypes.Name, Username),
